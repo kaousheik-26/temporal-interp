@@ -1,0 +1,500 @@
+filename,question,A,B,C,D,correct_label
+753071.mp3,Which sound event ends latest in the given audio?,Vehicle engine,Bell Ringing,Electronic Game,Crying,A
+184725.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Human Speech,White noise,Dog Barking,B
+453584.mp3,Which sound event ends latest in the given audio?,Horse Neigh,Explosion,Distant Sounds,Car driving by,C
+389497.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Thumping,Camera Shutter,Stream_River,D
+458617.mp3,Which sound event ends latest in the given audio?,Crying,Phone Ringing,Cowbell Ringing,Traffic Noise,A
+714265.mp3,Which sound event ends latest in the given audio?,Bell Ringing,Rustling,ATM Machine,Distant Sounds,B
+350656.mp3,Which sound event ends latest in the given audio?,Singing,Grinding,Clapping,Alarm sound,C
+170107.mp3,Which sound event ends latest in the given audio?,Monotone Sounds,Vehicle engine,Electronic Beep,Footsteps,D
+580796.mp3,Which sound event ends latest in the given audio?,Stream_River,Airplane sound,Whirring,Insect Buzzing,A
+113329.mp3,Which sound event ends latest in the given audio?,Stream_River,Atmospheric Sounds,Sneezing,Rustling,B
+250383.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Human Speech,Stream_River,Cowbell Ringing,C
+501819.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Electronic Game,Vehicle braking,Metallic Sounds,D
+622635.mp3,Which sound event ends latest in the given audio?,Sheep_Goat Bleat,Atmospheric Sounds,Lawn Mower,Footsteps,A
+408435.mp3,Which sound event ends latest in the given audio?,Button Press,Insect Buzzing,Distant Sounds,Fan,B
+249711.mp3,Which sound event ends latest in the given audio?,Wind,Washing Machine,Clapping,Beeping,C
+691547.mp3,Which sound event ends latest in the given audio?,Raining,Rooster Crow,Bell Ringing,Car driving by,D
+75059.mp3,Which sound event ends latest in the given audio?,Clapping,ATM Machine,Ship_Boat sound,Insect Buzzing,A
+149293.mp3,Which sound event ends latest in the given audio?,Chainsaw,Atmospheric Sounds,Whistle,Bell Ringing,B
+330668.mp3,Which sound event ends latest in the given audio?,Pig Oink,Shouting,Vehicle engine,Distant Sounds,C
+786171.mp3,Which sound event ends latest in the given audio?,Explosion,Drums,Monotone Sounds,Stream_River,D
+50621.mp3,Which sound event ends latest in the given audio?,Drums,Rattling,Car door sound,Distant Sounds,A
+533012.mp3,Which sound event ends latest in the given audio?,Human Speech,Stream_River,Monotone Sounds,Fire Alarm,B
+81801.mp3,Which sound event ends latest in the given audio?,Sheep_Goat Bleat,Hissing,Fire burning,Ship_Boat sound,C
+183874.mp3,Which sound event ends latest in the given audio?,Waves,Airplane sound,Vehicle Horn Honk,White noise,D
+177546.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Cowbell Ringing,Human Speech,Washing Machine,A
+233583.mp3,Which sound event ends latest in the given audio?,Horse Neigh,Cheering,Atmospheric Sounds,Thunder,B
+646275.mp3,Which sound event ends latest in the given audio?,Human Speech,Cat Meowing,Car driving by,Fan,C
+783660.mp3,Which sound event ends latest in the given audio?,Drums,Fire burning,Car door sound,Thud,D
+192370.mp3,Which sound event ends latest in the given audio?,Crying,Singing,Atmospheric Sounds,Sewing Machine,A
+180044.mp3,Which sound event ends latest in the given audio?,Wood sounds,Breathing,Rooster Crow,Drums,B
+733325.mp3,Which sound event ends latest in the given audio?,Cheering,Power Saw,Monotone Sounds,Cat Meowing,C
+191919.mp3,Which sound event ends latest in the given audio?,Drums,Vehicle braking,Clapping,Distant Sounds,D
+331613.mp3,Which sound event ends latest in the given audio?,Train sound,Human Speech,Stream_River,Vehicle Horn Honk,A
+104420.mp3,Which sound event ends latest in the given audio?,Violin Playing,Traffic Noise,Explosion,Human Speech,B
+591063.mp3,Which sound event ends latest in the given audio?,Announcement,Explosion,Bird Chirp,Washing Machine,C
+195111.mp3,Which sound event ends latest in the given audio?,Cheering,Car driving by,Distant Sounds,Bird Chirp,D
+428847.mp3,Which sound event ends latest in the given audio?,Rooster Crow,Shouting,Helicopter sound,Water Dripping,A
+396811.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Vehicle engine,Distant Sounds,Hand Sander,B
+730508.mp3,Which sound event ends latest in the given audio?,Singing,Monotone Sounds,Hammer,Footsteps,C
+528953.mp3,Which sound event ends latest in the given audio?,ATM Machine,Bird Chirp,Traffic Noise,Footsteps,D
+410413.mp3,Which sound event ends latest in the given audio?,Ticking,Piano Playing,Vehicle braking,Distant Sounds,A
+731255.mp3,Which sound event ends latest in the given audio?,Security Alarm,Bird Chirp,Crying,Train sound,B
+154927.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Hammer,Airplane sound,Bird Chirp,C
+572259.mp3,Which sound event ends latest in the given audio?,Machine sounds,Security Alarm,Violin Playing,Airplane engine,D
+100774.mp3,Which sound event ends latest in the given audio?,Explosion,Helicopter sound,Raining,Atmospheric Sounds,A
+118742.mp3,Which sound event ends latest in the given audio?,Saxophone,Power Drill,Thunder,Human Speech,B
+591187.mp3,Which sound event ends latest in the given audio?,Waves,Alarm sound,Violin Playing,Monotone Sounds,C
+380440.mp3,Which sound event ends latest in the given audio?,Piano Playing,Thumping,Airplane engine,Dog Barking,D
+203854.mp3,Which sound event ends latest in the given audio?,Wind,Vehicle Horn Honk,Camera Shutter,Bell Ringing,A
+624244.mp3,Which sound event ends latest in the given audio?,Car driving by,Bird Chirp,Human Speech,Trumpet,B
+505955.mp3,Which sound event ends latest in the given audio?,Piano Playing,Security Alarm,Hammer,Truck driving by,C
+744298.mp3,Which sound event ends latest in the given audio?,Power Saw,Distant Sounds,Siren,Bird Chirp,D
+665939.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Drums,Sleeping Sounds,Rustling,A
+267194.mp3,Which sound event ends latest in the given audio?,Airplane engine,Crying,Atmospheric Sounds,Elevator,B
+126128.mp3,Which sound event ends latest in the given audio?,Thunder,Beeping,Metallic Sounds,Drums,C
+635605.mp3,Which sound event ends latest in the given audio?,Singing,Horse Neigh,Waves,Power Drill,D
+692672.mp3,Which sound event ends latest in the given audio?,Clapping,Monotone Sounds,Piano Playing,Cow Moo,A
+84744.mp3,Which sound event ends latest in the given audio?,Phone Dialing,Train sound,Rustling,Bell Ringing,B
+724012.mp3,Which sound event ends latest in the given audio?,Insect Buzzing,Fan,Distant Sounds,Power Drill,C
+438253.mp3,Which sound event ends latest in the given audio?,Ticking,Raining,Announcement,Siren,D
+702298.mp3,Which sound event ends latest in the given audio?,Traffic Noise,Raining,Distant Sounds,Beeping,A
+160571.mp3,Which sound event ends latest in the given audio?,Elevator,Human Speech,Door sounds,Cow Moo,B
+746322.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Doorbell,Vehicle engine,Electronic Beep,C
+42117.mp3,Which sound event ends latest in the given audio?,Phone Ringing,Sleeping Sounds,Rooster Crow,Siren,D
+515530.mp3,Which sound event ends latest in the given audio?,White noise,Helicopter sound,Sheep_Goat Bleat,Bell Ringing,A
+348757.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Metallic Sounds,Footsteps,Cowbell Ringing,B
+621233.mp3,Which sound event ends latest in the given audio?,Airplane sound,Elevator,Whistle,Stream_River,C
+181424.mp3,Which sound event ends latest in the given audio?,Human Speech,Hand Sander,Car driving by,Atmospheric Sounds,D
+761056.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Wind,Airplane sound,Chainsaw,A
+471613.mp3,Which sound event ends latest in the given audio?,Violin Playing,Laughter,Metallic Sounds,Truck driving by,B
+788147.mp3,Which sound event ends latest in the given audio?,Vehicle braking,Saxophone,Thunder,Rattling,C
+326313.mp3,Which sound event ends latest in the given audio?,Water Dripping,Saxophone,Alarm sound,Laughter,D
+219446.mp3,Which sound event ends latest in the given audio?,Clapping,Car door sound,Distant Sounds,Wind,A
+180851.mp3,Which sound event ends latest in the given audio?,Traffic Noise,Electronic Beep,Atmospheric Sounds,Wood sounds,B
+80398.mp3,Which sound event ends latest in the given audio?,Microwave,White noise,Announcement,Piano Playing,C
+510300.mp3,Which sound event ends latest in the given audio?,Rooster Crow,Violin Playing,Microwave,Atmospheric Sounds,D
+468209.mp3,Which sound event ends latest in the given audio?,Rattling,Motorcycle driving by,Rooster Crow,Elevator,A
+19279.mp3,Which sound event ends latest in the given audio?,Saxophone,Atmospheric Sounds,Explosion,Cat Meowing,B
+19837.mp3,Which sound event ends latest in the given audio?,Ticking,Distant Sounds,Sheep_Goat Bleat,Footsteps,C
+756809.mp3,Which sound event ends latest in the given audio?,Thunder,Sheep_Goat Bleat,Traffic Noise,Distant Sounds,D
+578523.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Whistle,Raining,Atmospheric Sounds,A
+785534.mp3,Which sound event ends latest in the given audio?,Shouting,Beeping,Atmospheric Sounds,Drums,B
+325167.mp3,Which sound event ends latest in the given audio?,Sleeping Sounds,Elevator,Beeping,Cranking,C
+774676.mp3,Which sound event ends latest in the given audio?,Bus sound,Human Speech,Horse Neigh,Piano Playing,D
+553181.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Clapping,Vehicle engine,Monotone Sounds,A
+27406.mp3,Which sound event ends latest in the given audio?,Vehicle Horn Honk,Rooster Crow,Distant Sounds,Coughing,B
+609757.mp3,Which sound event ends latest in the given audio?,Human Speech,Atmospheric Sounds,White noise,Phone Ringing,C
+722356.mp3,Which sound event ends latest in the given audio?,Vehicle Horn Honk,Wind,Camera Shutter,Bird Chirp,D
+315644.mp3,Which sound event ends latest in the given audio?,Chainsaw,Trumpet,Monotone Sounds,Monkey sounds,A
+50897.mp3,Which sound event ends latest in the given audio?,Clicking,Vehicle engine,Atmospheric Sounds,Card Reader,B
+613869.mp3,Which sound event ends latest in the given audio?,Wind,Camera Shutter,Sheep_Goat Bleat,Security Alarm,C
+208995.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Microwave,Wind,Insect Buzzing,D
+191646.mp3,Which sound event ends latest in the given audio?,Laughter,Alarm sound,Monkey sounds,Distant Sounds,A
+730105.mp3,Which sound event ends latest in the given audio?,Washing Machine,Cat Meowing,Monotone Sounds,Sniffing,B
+121299.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Snoring,Traffic Noise,Rattling,C
+469243.mp3,Which sound event ends latest in the given audio?,Vehicle engine,Sneezing,Security Alarm,Machine sounds,D
+660296.mp3,Which sound event ends latest in the given audio?,Raining,Monotone Sounds,Monkey sounds,Footsteps,A
+126437.mp3,Which sound event ends latest in the given audio?,Bell Ringing,Alarm sound,Wood sounds,Bird Chirp,B
+580485.mp3,Which sound event ends latest in the given audio?,Footsteps,Raining,Cow Moo,Bell Ringing,C
+588591.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Cheering,Electronic Beep,Vehicle Horn Honk,D
+170298.mp3,Which sound event ends latest in the given audio?,Dog Barking,Monotone Sounds,Security Alarm,Laughter,A
+451479.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Traffic Noise,Cat Meowing,Fan,B
+516878.mp3,Which sound event ends latest in the given audio?,Violin Playing,Monkey sounds,Raining,Car driving by,C
+785669.mp3,Which sound event ends latest in the given audio?,Microwave,Wind,Squeaking,Bird Chirp,D
+438400.mp3,Which sound event ends latest in the given audio?,Laughter,Hissing,Singing,Wood sounds,A
+743668.mp3,Which sound event ends latest in the given audio?,Rattling,Singing,Laughter,Bird Chirp,B
+705232.mp3,Which sound event ends latest in the given audio?,Cat Meowing,Electronic Beep,Guitar Playing,Monotone Sounds,C
+653039.mp3,Which sound event ends latest in the given audio?,Car door sound,Security Alarm,Atmospheric Sounds,Wind,D
+137702.mp3,Which sound event ends latest in the given audio?,Human Speech,Piano Playing,Vehicle Horn Honk,Squeaking,A
+453245.mp3,Which sound event ends latest in the given audio?,Alarm sound,Chainsaw,Elevator,Atmospheric Sounds,B
+394716.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Monotone Sounds,Metallic Sounds,Footsteps,C
+727798.mp3,Which sound event ends latest in the given audio?,Sleeping Sounds,Microwave,Explosion,Water Dripping,D
+349858.mp3,Which sound event ends latest in the given audio?,Announcement,Atmospheric Sounds,Hissing,Card Reader,A
+161879.mp3,Which sound event ends latest in the given audio?,Truck driving by,Atmospheric Sounds,Trumpet,Crying,B
+686057.mp3,Which sound event ends latest in the given audio?,Clapping,Bird Chirp,Vehicle engine,Vehicle Horn Honk,C
+512165.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Vehicle Horn Honk,Fan,Bell Ringing,D
+515042.mp3,Which sound event ends latest in the given audio?,Truck driving by,Card Reader,Insect Buzzing,Grinding,A
+778372.mp3,Which sound event ends latest in the given audio?,Electronic Game,Raining,Singing,Atmospheric Sounds,B
+451146.mp3,Which sound event ends latest in the given audio?,Cowbell Ringing,Screaming,Vehicle engine,Vehicle Horn Honk,C
+567570.mp3,Which sound event ends latest in the given audio?,Fan,Siren,Distant Sounds,Sleeping Sounds,D
+700522.mp3,Which sound event ends latest in the given audio?,Laughter,Cat Meowing,Motorcycle driving by,Monotone Sounds,A
+69443.mp3,Which sound event ends latest in the given audio?,Card Reader,Vehicle engine,Cat Meowing,Ticking,B
+58130.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Guitar Playing,Stream_River,Vehicle Horn Honk,C
+129649.mp3,Which sound event ends latest in the given audio?,Machine sounds,Monkey sounds,Humming,Drums,D
+582428.mp3,Which sound event ends latest in the given audio?,Shouting,White noise,Rooster Crow,Helicopter sound,A
+163068.mp3,Which sound event ends latest in the given audio?,Card Reader,Vehicle Horn Honk,Piano Playing,Breathing,B
+149977.mp3,Which sound event ends latest in the given audio?,Wood sounds,Vehicle Horn Honk,Machine sounds,Distant Sounds,C
+262482.mp3,Which sound event ends latest in the given audio?,Microwave,Monotone Sounds,Car driving by,Siren,D
+591212.mp3,Which sound event ends latest in the given audio?,Guitar Playing,Airplane engine,Button Press,Monotone Sounds,A
+511348.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Raining,Vehicle braking,Metallic Sounds,B
+689357.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Coughing,Vehicle engine,Dog Barking,C
+17056.mp3,Which sound event ends latest in the given audio?,Breathing,Monotone Sounds,Car Honking,Raining,D
+480658.mp3,Which sound event ends latest in the given audio?,Squeaking,Explosion,Human Speech,Truck driving by,A
+133991.mp3,Which sound event ends latest in the given audio?,ATM Machine,Raining,Guitar Playing,Beeping,B
+124982.mp3,Which sound event ends latest in the given audio?,Keyboard sounds,Beeping,ATM Machine,Piano Playing,C
+380037.mp3,Which sound event ends latest in the given audio?,Monotone Sounds,Cat Meowing,Security Alarm,Stream_River,D
+179086.mp3,Which sound event ends latest in the given audio?,Human Speech,Traffic Noise,Alarm sound,Monotone Sounds,A
+686692.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Footsteps,Violin Playing,Wood sounds,B
+767487.mp3,Which sound event ends latest in the given audio?,Grinding,Snoring,Elevator,Car door sound,C
+233975.mp3,Which sound event ends latest in the given audio?,Thud,Whistle,Pig Oink,Water Dripping,D
+341561.mp3,Which sound event ends latest in the given audio?,Traffic Noise,Breathing,Vehicle Horn Honk,Atmospheric Sounds,A
+762526.mp3,Which sound event ends latest in the given audio?,Rattling,Traffic Noise,Wind,Insect Buzzing,B
+131197.mp3,Which sound event ends latest in the given audio?,Human Speech,Door sounds,Phone Ringing,Cat Meowing,C
+454874.mp3,Which sound event ends latest in the given audio?,Car driving by,Raining,Distant Sounds,Clicking,D
+784365.mp3,Which sound event ends latest in the given audio?,Humming,Wood sounds,Trumpet,Machine sounds,A
+408703.mp3,Which sound event ends latest in the given audio?,Cow Moo,Jackhammer,Beeping,Helicopter sound,B
+106836.mp3,Which sound event ends latest in the given audio?,Beeping,Cat Meowing,Vehicle engine,Distant Sounds,C
+264870.mp3,Which sound event ends latest in the given audio?,Saxophone,Lawn Mower,Human Speech,Vehicle engine,D
+162530.mp3,Which sound event ends latest in the given audio?,Car door sound,Wolf Howl,Cheering,Door sounds,A
+122065.mp3,Which sound event ends latest in the given audio?,Vehicle Horn Honk,Distant Sounds,Traffic Noise,Cowbell Ringing,B
+755202.mp3,Which sound event ends latest in the given audio?,Beeping,Waves,Bell Ringing,Dog Barking,C
+624343.mp3,Which sound event ends latest in the given audio?,Piano Playing,Pig Oink,Power Saw,Snoring,D
+104817.mp3,Which sound event ends latest in the given audio?,Drums,Power Drill,Waves,Sleeping Sounds,A
+680362.mp3,Which sound event ends latest in the given audio?,Siren,Raining,Insect Buzzing,White noise,B
+655144.mp3,Which sound event ends latest in the given audio?,Wind,Human Speech,Dog Barking,Singing,C
+172648.mp3,Which sound event ends latest in the given audio?,Wind,Crying,Ship_Boat sound,Monkey sounds,D
+254369.mp3,Which sound event ends latest in the given audio?,Siren,Distant Sounds,Wood sounds,Horse Neigh,A
+574427.mp3,Which sound event ends latest in the given audio?,Ticking,Bird Chirp,Bicycle,Vehicle Horn Honk,B
+501821.mp3,Which sound event ends latest in the given audio?,Microwave,Wood sounds,Atmospheric Sounds,Trumpet,C
+148754.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Piano Playing,Human Speech,Alarm sound,D
+538438.mp3,Which sound event ends latest in the given audio?,Door sounds,Horse Neigh,Airplane sound,Distant Sounds,A
+402550.mp3,Which sound event ends latest in the given audio?,Security Alarm,Raining,Atmospheric Sounds,Vehicle braking,B
+137825.mp3,Which sound event ends latest in the given audio?,Guitar Playing,Distant Sounds,Machine sounds,Siren,C
+110394.mp3,Which sound event ends latest in the given audio?,Alarm sound,Clapping,Machine sounds,Waves,D
+74844.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Footsteps,Thunder,Elevator,A
+253986.mp3,Which sound event ends latest in the given audio?,Door sounds,Beeping,Elevator,Announcement,B
+156061.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Rustling,Human Speech,Phone Dialing,C
+360842.mp3,Which sound event ends latest in the given audio?,Doorbell,Cow Moo,Water Dripping,Bell Ringing,D
+756960.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Bicycle,Drums,Phone Dialing,A
+267200.mp3,Which sound event ends latest in the given audio?,Singing,Laughter,Bird Chirp,Bus sound,B
+263104.mp3,Which sound event ends latest in the given audio?,Airplane sound,Sniffing,Bird Chirp,Saxophone,C
+396528.mp3,Which sound event ends latest in the given audio?,Camera Shutter,Piano Playing,Beeping,Metallic Sounds,D
+391624.mp3,Which sound event ends latest in the given audio?,Water Dripping,Thud,Humming,Dog Barking,A
+334151.mp3,Which sound event ends latest in the given audio?,Monotone Sounds,Raining,Siren,Vehicle braking,B
+645850.mp3,Which sound event ends latest in the given audio?,Airplane sound,Bird Chirp,Bell Ringing,Vehicle Horn Honk,C
+654255.mp3,Which sound event ends latest in the given audio?,Insect Buzzing,Distant Sounds,Car door sound,Humming,D
+565802.mp3,Which sound event ends latest in the given audio?,Car driving by,Vehicle Horn Honk,Fire burning,Bird Chirp,A
+424878.mp3,Which sound event ends latest in the given audio?,Thunder,Trumpet,Breathing,Fan,B
+429933.mp3,Which sound event ends latest in the given audio?,Machine sounds,Screaming,Elevator,Distant Sounds,C
+73519.mp3,Which sound event ends latest in the given audio?,Chainsaw,Horse Neigh,Phone Ringing,Atmospheric Sounds,D
+331689.mp3,Which sound event ends latest in the given audio?,Cat Meowing,Breathing,Singing,Fire burning,A
+637913.mp3,Which sound event ends latest in the given audio?,Cranking,Distant Sounds,Trumpet,Sheep_Goat Bleat,B
+180043.mp3,Which sound event ends latest in the given audio?,Explosion,Atmospheric Sounds,Sniffing,Raining,C
+422876.mp3,Which sound event ends latest in the given audio?,Wood sounds,Ticking,Car door sound,Human Speech,D
+377024.mp3,Which sound event ends latest in the given audio?,Clapping,Motorcycle driving by,Atmospheric Sounds,Electronic Game,A
+650529.mp3,Which sound event ends latest in the given audio?,Fan,Sheep_Goat Bleat,Monotone Sounds,Human Speech,B
+616596.mp3,Which sound event ends latest in the given audio?,Horse Neigh,Waves,Atmospheric Sounds,Sewing Machine,C
+608208.mp3,Which sound event ends latest in the given audio?,Traffic Noise,Human Speech,Drums,Distant Sounds,D
+253992.mp3,Which sound event ends latest in the given audio?,Elevator,Grinding,Footsteps,Alarm sound,A
+761057.mp3,Which sound event ends latest in the given audio?,Airplane engine,Shouting,Bird Chirp,Distant Sounds,B
+336777.mp3,Which sound event ends latest in the given audio?,Piano Playing,Raining,Atmospheric Sounds,Thud,C
+23098.mp3,Which sound event ends latest in the given audio?,Elevator,Hand Sander,Airplane sound,Human Speech,D
+348153.mp3,Which sound event ends latest in the given audio?,Raining,Screaming,Alarm sound,Violin Playing,A
+627880.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Wind,Helicopter sound,Explosion,B
+672478.mp3,Which sound event ends latest in the given audio?,Laughter,Stream_River,Drums,Monotone Sounds,C
+202942.mp3,Which sound event ends latest in the given audio?,Metallic Sounds,Atmospheric Sounds,Sheep_Goat Bleat,Singing,D
+96856.mp3,Which sound event ends latest in the given audio?,Thumping,Electronic Beep,Car Honking,Drums,A
+37565.mp3,Which sound event ends latest in the given audio?,Hiccup,Raining,Metallic Sounds,Airplane engine,B
+535628.mp3,Which sound event ends latest in the given audio?,Piano Playing,Bus sound,Power Saw,Wood sounds,C
+416176.mp3,Which sound event ends latest in the given audio?,Wolf Howl,Truck driving by,Alarm sound,Laughter,D
+442562.mp3,Which sound event ends latest in the given audio?,Alarm sound,Coughing,Door sounds,Train sound,A
+18761.mp3,Which sound event ends latest in the given audio?,Jackhammer,Doorbell,Distant Sounds,Bell Ringing,B
+559094.mp3,Which sound event ends latest in the given audio?,Monotone Sounds,Wind,Traffic Noise,Whirring,C
+429179.mp3,Which sound event ends latest in the given audio?,Monotone Sounds,Pig Oink,Whirring,Raining,D
+467974.mp3,Which sound event ends latest in the given audio?,Crying,Squeaking,Train sound,Camera Shutter,A
+267973.mp3,Which sound event ends latest in the given audio?,Airplane sound,Lawn Mower,Dog Barking,Fire burning,B
+517392.mp3,Which sound event ends latest in the given audio?,Screaming,Car driving by,Wind,Camera Shutter,C
+54823.mp3,Which sound event ends latest in the given audio?,Card Reader,Footsteps,Atmospheric Sounds,Dog Barking,D
+474901.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Vehicle engine,Wind,Beeping,A
+623051.mp3,Which sound event ends latest in the given audio?,Human Speech,Waves,Singing,Jackhammer,B
+680165.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Electronic Beep,Traffic Noise,Vehicle Horn Honk,C
+59196.mp3,Which sound event ends latest in the given audio?,Camera Shutter,Waves,Vacuum Cleaner,Announcement,D
+476297.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Elevator,Atmospheric Sounds,Vehicle engine,A
+451505.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Vehicle Horn Honk,Car Honking,Hissing,B
+657763.mp3,Which sound event ends latest in the given audio?,Microwave,Cow Moo,Bicycle,Trumpet,C
+73267.mp3,Which sound event ends latest in the given audio?,Whistle,Car door sound,Bird Chirp,Thunder,D
+155780.mp3,Which sound event ends latest in the given audio?,Vehicle engine,Beeping,Atmospheric Sounds,Card Reader,A
+412404.mp3,Which sound event ends latest in the given audio?,Human Speech,Lawn Mower,Thunder,Distant Sounds,B
+331520.mp3,Which sound event ends latest in the given audio?,Hissing,Sniffing,Traffic Noise,Monotone Sounds,C
+748270.mp3,Which sound event ends latest in the given audio?,Fan,Singing,Monotone Sounds,Snoring,D
+460754.mp3,Which sound event ends latest in the given audio?,Traffic Noise,Phone Dialing,Coughing,Trumpet,A
+524806.mp3,Which sound event ends latest in the given audio?,Beeping,Shouting,Distant Sounds,Rustling,B
+571217.mp3,Which sound event ends latest in the given audio?,Wood sounds,Violin Playing,Footsteps,Dog Barking,C
+171130.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Traffic Noise,Fire Alarm,Clapping,D
+260616.mp3,Which sound event ends latest in the given audio?,Stream_River,Vehicle engine,Bird Chirp,Phone Dialing,A
+756872.mp3,Which sound event ends latest in the given audio?,Drums,Monotone Sounds,Grinding,Cow Moo,B
+719564.mp3,Which sound event ends latest in the given audio?,Motorcycle driving by,Distant Sounds,Chainsaw,Raining,C
+109373.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Thud,Bird Chirp,Traffic Noise,D
+705058.mp3,Which sound event ends latest in the given audio?,Waves,Distant Sounds,Rattling,Snoring,A
+659000.mp3,Which sound event ends latest in the given audio?,Grinding,Fire burning,Helicopter sound,Guitar Playing,B
+676407.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Power Saw,Dog Barking,Waves,C
+362943.mp3,Which sound event ends latest in the given audio?,Drums,Alarm sound,Screaming,Vehicle engine,D
+344938.mp3,Which sound event ends latest in the given audio?,Vehicle engine,Bird Chirp,Distant Sounds,White noise,A
+393487.mp3,Which sound event ends latest in the given audio?,Water Dripping,Rustling,Train sound,Insect Buzzing,B
+672252.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Rooster Crow,Raining,Phone Ringing,C
+39890.mp3,Which sound event ends latest in the given audio?,Car driving by,Clock Ticking,Monotone Sounds,Raining,D
+698256.mp3,Which sound event ends latest in the given audio?,Human Speech,Truck driving by,Raining,Pig Oink,A
+118163.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Footsteps,Clock Ticking,Car driving by,B
+700981.mp3,Which sound event ends latest in the given audio?,Beeping,Elevator,Hammer,Human Speech,C
+249955.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Helicopter sound,Bird Chirp,Siren,D
+197454.mp3,Which sound event ends latest in the given audio?,Snoring,Door sounds,Explosion,Distant Sounds,A
+159989.mp3,Which sound event ends latest in the given audio?,Footsteps,Traffic Noise,Thud,Water Dripping,B
+78583.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Clock Ticking,Screaming,Grinding,C
+376926.mp3,Which sound event ends latest in the given audio?,Clock Ticking,Airplane sound,Clicking,Explosion,D
+760516.mp3,Which sound event ends latest in the given audio?,Wind,Footsteps,Hissing,Bus sound,A
+680577.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Vehicle Horn Honk,Fire burning,Traffic Noise,B
+635338.mp3,Which sound event ends latest in the given audio?,Airplane sound,Wind,Insect Buzzing,Thud,C
+41458.mp3,Which sound event ends latest in the given audio?,Thud,Wood sounds,Vehicle Horn Honk,Screaming,D
+542789.mp3,Which sound event ends latest in the given audio?,Thud,Wolf Howl,Car Honking,Security Alarm,A
+772710.mp3,Which sound event ends latest in the given audio?,Sleeping Sounds,Raining,Guitar Playing,Clock Ticking,B
+477920.mp3,Which sound event ends latest in the given audio?,Microwave,Monotone Sounds,Car driving by,Raining,C
+410290.mp3,Which sound event ends latest in the given audio?,Car door sound,Rooster Crow,Fan,Announcement,D
+215447.mp3,Which sound event ends latest in the given audio?,Airplane engine,Atmospheric Sounds,Whirring,Insect Buzzing,A
+338397.mp3,Which sound event ends latest in the given audio?,Thunder,Motorcycle driving by,Cat Meowing,Monotone Sounds,B
+371454.mp3,Which sound event ends latest in the given audio?,Shouting,Bicycle,Lawn Mower,Monotone Sounds,C
+698899.mp3,Which sound event ends latest in the given audio?,Singing,Chainsaw,Vehicle engine,Breathing,D
+670301.mp3,Which sound event ends latest in the given audio?,Rustling,Bird Chirp,Water Dripping,Whistle,A
+341491.mp3,Which sound event ends latest in the given audio?,Cowbell Ringing,Waves,Traffic Noise,Hand Sander,B
+556027.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Raining,Human Speech,Lawn Mower,C
+527750.mp3,Which sound event ends latest in the given audio?,Door sounds,Elevator,Vehicle Horn Honk,Car driving by,D
+271145.mp3,Which sound event ends latest in the given audio?,Stream_River,Distant Sounds,Saxophone,Announcement,A
+64398.mp3,Which sound event ends latest in the given audio?,Vehicle engine,Chainsaw,Distant Sounds,Waves,B
+237327.mp3,Which sound event ends latest in the given audio?,Thunder,Vehicle engine,Distant Sounds,Footsteps,C
+332971.mp3,Which sound event ends latest in the given audio?,Dog Barking,Distant Sounds,Wood sounds,Squeaking,D
+462672.mp3,Which sound event ends latest in the given audio?,Siren,Wind,Bird Chirp,Screaming,A
+510771.mp3,Which sound event ends latest in the given audio?,Insect Buzzing,Metallic Sounds,Shouting,Electronic Game,B
+240100.mp3,Which sound event ends latest in the given audio?,Airplane sound,Water Dripping,Bird Chirp,Thud,C
+620489.mp3,Which sound event ends latest in the given audio?,Clicking,Coughing,Electronic Beep,Raining,D
+269258.mp3,Which sound event ends latest in the given audio?,Dog Barking,Motorcycle driving by,Fan,Crying,A
+397435.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Clapping,Electronic Beep,Jackhammer,B
+418566.mp3,Which sound event ends latest in the given audio?,Hand Sander,Cow Moo,Bell Ringing,Clapping,C
+469140.mp3,Which sound event ends latest in the given audio?,White noise,Dog Barking,Clapping,Piano Playing,D
+553936.mp3,Which sound event ends latest in the given audio?,Raining,Car driving by,Announcement,Distant Sounds,A
+548200.mp3,Which sound event ends latest in the given audio?,Train sound,Stream_River,Distant Sounds,Fire Alarm,B
+691540.mp3,Which sound event ends latest in the given audio?,Raining,Keyboard sounds,Car driving by,Clapping,C
+548491.mp3,Which sound event ends latest in the given audio?,Truck driving by,Whistle,Bird Chirp,White noise,D
+67306.mp3,Which sound event ends latest in the given audio?,Human Speech,Dog Barking,Thud,Siren,A
+575195.mp3,Which sound event ends latest in the given audio?,Pig Oink,Distant Sounds,Wind,Vacuum Cleaner,B
+274329.mp3,Which sound event ends latest in the given audio?,Bell Ringing,Thud,Doorbell,Dog Barking,C
+550181.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Ship_Boat sound,Doorbell,Jackhammer,D
+450655.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Machine sounds,Traffic Noise,Drums,A
+700589.mp3,Which sound event ends latest in the given audio?,Fire Alarm,Traffic Noise,Human Speech,Atmospheric Sounds,B
+438354.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Wind,Human Speech,Car door sound,C
+31913.mp3,Which sound event ends latest in the given audio?,Vehicle braking,Insect Buzzing,Singing,Human Speech,D
+706449.mp3,Which sound event ends latest in the given audio?,Cat Meowing,Water Dripping,Cowbell Ringing,Human Speech,A
+650522.mp3,Which sound event ends latest in the given audio?,Wolf Howl,Human Speech,Stream_River,Singing,B
+675263.mp3,Which sound event ends latest in the given audio?,Monkey sounds,Vehicle engine,Distant Sounds,Vehicle Horn Honk,C
+650907.mp3,Which sound event ends latest in the given audio?,Bus sound,Hissing,Electronic Beep,Laughter,D
+533196.mp3,Which sound event ends latest in the given audio?,Thud,Thunder,Vehicle engine,Screaming,A
+623999.mp3,Which sound event ends latest in the given audio?,Singing,Car driving by,Rattling,Phone Ringing,B
+765786.mp3,Which sound event ends latest in the given audio?,Cat Meowing,Beeping,Distant Sounds,Bell Ringing,C
+638702.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Train sound,White noise,Rooster Crow,D
+723256.mp3,Which sound event ends latest in the given audio?,Humming,ATM Machine,Car door sound,Clicking,A
+262168.mp3,Which sound event ends latest in the given audio?,Sheep_Goat Bleat,Screaming,Squeaking,Bus sound,B
+394707.mp3,Which sound event ends latest in the given audio?,Wood sounds,Fan,Bird Chirp,Monotone Sounds,C
+740816.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Machine sounds,Coughing,Electronic Beep,D
+595473.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Fire burning,Singing,Power Drill,A
+586531.mp3,Which sound event ends latest in the given audio?,Siren,Human Speech,Thud,Wood sounds,B
+781059.mp3,Which sound event ends latest in the given audio?,Human Speech,Alarm sound,Vehicle engine,Atmospheric Sounds,C
+634229.mp3,Which sound event ends latest in the given audio?,Wind,Sniffing,Security Alarm,Door sounds,D
+454792.mp3,Which sound event ends latest in the given audio?,Human Speech,Pig Oink,Power Saw,Distant Sounds,A
+563894.mp3,Which sound event ends latest in the given audio?,Sleeping Sounds,Raining,Bird Chirp,Beeping,B
+371940.mp3,Which sound event ends latest in the given audio?,Pig Oink,Printer,Waves,Singing,C
+32863.mp3,Which sound event ends latest in the given audio?,Clapping,Fire Alarm,Sewing Machine,Atmospheric Sounds,D
+414068.mp3,Which sound event ends latest in the given audio?,White noise,Bell Ringing,Airplane engine,Announcement,A
+501242.mp3,Which sound event ends latest in the given audio?,Security Alarm,Raining,Insect Buzzing,Distant Sounds,B
+454025.mp3,Which sound event ends latest in the given audio?,Vehicle engine,Wind,Metallic Sounds,Vehicle Horn Honk,C
+264372.mp3,Which sound event ends latest in the given audio?,Sleeping Sounds,Water Dripping,Monotone Sounds,Bird Chirp,D
+26802.mp3,Which sound event ends latest in the given audio?,Grinding,Camera Shutter,Raining,Guitar Playing,A
+91446.mp3,Which sound event ends latest in the given audio?,Waves,Distant Sounds,Fan,White noise,B
+450821.mp3,Which sound event ends latest in the given audio?,Car driving by,Screaming,Vehicle Horn Honk,Whirring,C
+697617.mp3,Which sound event ends latest in the given audio?,Hand Sander,Wind,Airplane sound,Piano Playing,D
+593513.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Cat Meowing,Security Alarm,Bell Ringing,A
+316066.mp3,Which sound event ends latest in the given audio?,Piano Playing,Hissing,Atmospheric Sounds,Waves,B
+52637.mp3,Which sound event ends latest in the given audio?,Wind,Door sounds,Doorbell,Distant Sounds,C
+695813.mp3,Which sound event ends latest in the given audio?,Breathing,Cow Moo,Clock Ticking,Water Dripping,D
+253085.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Metallic Sounds,Violin Playing,Camera Shutter,A
+645949.mp3,Which sound event ends latest in the given audio?,Human Speech,Machine sounds,Piano Playing,Car door sound,B
+581528.mp3,Which sound event ends latest in the given audio?,Laughter,Elevator,White noise,Distant Sounds,C
+327147.mp3,Which sound event ends latest in the given audio?,Ship_Boat sound,Drums,Fire burning,Bird Chirp,D
+637218.mp3,Which sound event ends latest in the given audio?,Machine sounds,Clock Ticking,Human Speech,Vehicle Horn Honk,A
+161890.mp3,Which sound event ends latest in the given audio?,Guitar Playing,Machine sounds,Security Alarm,Vehicle engine,B
+760515.mp3,Which sound event ends latest in the given audio?,Vehicle Horn Honk,Phone Ringing,Atmospheric Sounds,Car Honking,C
+17812.mp3,Which sound event ends latest in the given audio?,Thunder,Human Speech,Monotone Sounds,Elevator,D
+52346.mp3,Which sound event ends latest in the given audio?,Guitar Playing,Human Speech,Explosion,Chainsaw,A
+206029.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Bird Chirp,Breathing,Ship_Boat sound,B
+466844.mp3,Which sound event ends latest in the given audio?,Microwave,Atmospheric Sounds,Laughter,Hissing,C
+402960.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Rooster Crow,Cranking,Vehicle engine,D
+658613.mp3,Which sound event ends latest in the given audio?,Rattling,Sheep_Goat Bleat,Crying,Fire burning,A
+364822.mp3,Which sound event ends latest in the given audio?,Singing,Power Drill,Microwave,Coughing,B
+119768.mp3,Which sound event ends latest in the given audio?,Bus sound,Atmospheric Sounds,Hammer,Rooster Crow,C
+155447.mp3,Which sound event ends latest in the given audio?,Alarm sound,Monotone Sounds,Insect Buzzing,Human Speech,D
+147534.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Phone Dialing,Raining,Beeping,A
+378365.mp3,Which sound event ends latest in the given audio?,Monotone Sounds,Bicycle,Clapping,Clicking,B
+332850.mp3,Which sound event ends latest in the given audio?,Stream_River,Explosion,Vehicle engine,Drums,C
+677349.mp3,Which sound event ends latest in the given audio?,Vehicle braking,Atmospheric Sounds,Security Alarm,Human Speech,D
+608723.mp3,Which sound event ends latest in the given audio?,Washing Machine,Microwave,Vehicle engine,Water Dripping,A
+442382.mp3,Which sound event ends latest in the given audio?,Bicycle,Atmospheric Sounds,Elevator,Rattling,B
+236997.mp3,Which sound event ends latest in the given audio?,Piano Playing,Horse Neigh,Raining,Car Honking,C
+168306.mp3,Which sound event ends latest in the given audio?,Door sounds,Distant Sounds,Guitar Playing,Footsteps,D
+464791.mp3,Which sound event ends latest in the given audio?,Human Speech,Electronic Game,Thud,Traffic Noise,A
+649156.mp3,Which sound event ends latest in the given audio?,Security Alarm,Cheering,Whirring,Airplane engine,B
+653943.mp3,Which sound event ends latest in the given audio?,Snoring,Phone Ringing,Bird Chirp,Car driving by,C
+393840.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Bicycle,Ticking,Humming,D
+161878.mp3,Which sound event ends latest in the given audio?,Truck driving by,Water Dripping,Machine sounds,Monotone Sounds,A
+725216.mp3,Which sound event ends latest in the given audio?,Piano Playing,Bird Chirp,Footsteps,Electronic Game,B
+660957.mp3,Which sound event ends latest in the given audio?,Human Speech,Card Reader,Vehicle engine,Lawn Mower,C
+422939.mp3,Which sound event ends latest in the given audio?,Ship_Boat sound,Machine sounds,Doorbell,Human Speech,D
+519366.mp3,Which sound event ends latest in the given audio?,Cat Meowing,Whistle,Distant Sounds,Washing Machine,A
+480625.mp3,Which sound event ends latest in the given audio?,Alarm sound,Footsteps,Monotone Sounds,Rustling,B
+696455.mp3,Which sound event ends latest in the given audio?,Piano Playing,Phone Ringing,Grinding,Explosion,C
+106600.mp3,Which sound event ends latest in the given audio?,Raining,Washing Machine,Shouting,Monotone Sounds,D
+483440.mp3,Which sound event ends latest in the given audio?,Water Dripping,Distant Sounds,Sewing Machine,Bell Ringing,A
+741582.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Vehicle engine,Cranking,Cowbell Ringing,B
+249304.mp3,Which sound event ends latest in the given audio?,Fan,Distant Sounds,Alarm sound,Power Saw,C
+451401.mp3,Which sound event ends latest in the given audio?,Waves,Saxophone,Airplane sound,Machine sounds,D
+71529.mp3,Which sound event ends latest in the given audio?,Washing Machine,Fire burning,Violin Playing,Vehicle engine,A
+430960.mp3,Which sound event ends latest in the given audio?,Thud,Dog Barking,Card Reader,Water Dripping,B
+37928.mp3,Which sound event ends latest in the given audio?,Screaming,Vehicle Horn Honk,Wind,Camera Shutter,C
+240933.mp3,Which sound event ends latest in the given audio?,Humming,Airplane engine,Bird Chirp,Atmospheric Sounds,D
+537094.mp3,Which sound event ends latest in the given audio?,Vehicle engine,Piano Playing,Doorbell,Human Speech,A
+435087.mp3,Which sound event ends latest in the given audio?,Screaming,Vehicle engine,Bell Ringing,Clock Ticking,B
+172784.mp3,Which sound event ends latest in the given audio?,Sleeping Sounds,Electronic Game,Beeping,Guitar Playing,C
+165387.mp3,Which sound event ends latest in the given audio?,Drums,Monotone Sounds,Vehicle engine,Machine sounds,D
+153543.mp3,Which sound event ends latest in the given audio?,Traffic Noise,Human Speech,Siren,Metallic Sounds,A
+508875.mp3,Which sound event ends latest in the given audio?,Cowbell Ringing,Machine sounds,Bird Chirp,Atmospheric Sounds,B
+582966.mp3,Which sound event ends latest in the given audio?,Rattling,Wind,Siren,Traffic Noise,C
+417751.mp3,Which sound event ends latest in the given audio?,Fire Alarm,Distant Sounds,Wind,Screaming,D
+74965.mp3,Which sound event ends latest in the given audio?,Power Drill,Trumpet,Motorcycle driving by,Distant Sounds,A
+143225.mp3,Which sound event ends latest in the given audio?,Phone Ringing,Coughing,Alarm sound,Trumpet,B
+663379.mp3,Which sound event ends latest in the given audio?,Explosion,Clapping,Grinding,Elevator,C
+453264.mp3,Which sound event ends latest in the given audio?,Waves,Humming,Electronic Game,Atmospheric Sounds,D
+501816.mp3,Which sound event ends latest in the given audio?,Metallic Sounds,Screaming,Bell Ringing,Monotone Sounds,A
+529016.mp3,Which sound event ends latest in the given audio?,Metallic Sounds,Wind,Doorbell,Bell Ringing,B
+370005.mp3,Which sound event ends latest in the given audio?,Electronic Beep,Cowbell Ringing,Monotone Sounds,Sleeping Sounds,C
+711219.mp3,Which sound event ends latest in the given audio?,Lawn Mower,Drums,Distant Sounds,Dog Barking,D
+331009.mp3,Which sound event ends latest in the given audio?,Human Speech,Distant Sounds,Electronic Beep,Bell Ringing,A
+173981.mp3,Which sound event ends latest in the given audio?,Pig Oink,Distant Sounds,Vehicle Horn Honk,Thunder,B
+327663.mp3,Which sound event ends latest in the given audio?,Human Speech,Wood sounds,Monotone Sounds,Horse Neigh,C
+316871.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Car driving by,Coughing,Singing,D
+77003.mp3,Which sound event ends latest in the given audio?,Human Speech,Thud,Atmospheric Sounds,Elevator,A
+113320.mp3,Which sound event ends latest in the given audio?,Human Speech,Bus sound,Bird Chirp,Atmospheric Sounds,B
+582754.mp3,Which sound event ends latest in the given audio?,Laughter,Vehicle Horn Honk,Washing Machine,Car driving by,C
+755884.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Laughter,Doorbell,White noise,D
+177548.mp3,Which sound event ends latest in the given audio?,Rattling,Breathing,Fire burning,Atmospheric Sounds,A
+54851.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Vehicle engine,Wood sounds,Rooster Crow,B
+120776.mp3,Which sound event ends latest in the given audio?,Grinding,Doorbell,Train sound,Card Reader,C
+353243.mp3,Which sound event ends latest in the given audio?,Wind,Phone Dialing,Bird Chirp,Bell Ringing,D
+161290.mp3,Which sound event ends latest in the given audio?,Violin Playing,Announcement,Pig Oink,Distant Sounds,A
+655090.mp3,Which sound event ends latest in the given audio?,Thunder,Cat Meowing,Distant Sounds,Beeping,B
+78562.mp3,Which sound event ends latest in the given audio?,Vacuum Cleaner,Alarm sound,Clock Ticking,Motorcycle driving by,C
+683018.mp3,Which sound event ends latest in the given audio?,Singing,Doorbell,Airplane engine,Power Drill,D
+435791.mp3,Which sound event ends latest in the given audio?,Raining,Drums,Jackhammer,Vehicle Horn Honk,A
+516044.mp3,Which sound event ends latest in the given audio?,Electronic Beep,Hammer,Guitar Playing,Pig Oink,B
+724067.mp3,Which sound event ends latest in the given audio?,Singing,Atmospheric Sounds,Footsteps,Squeaking,C
+720186.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Metallic Sounds,Humming,Airplane engine,D
+593519.mp3,Which sound event ends latest in the given audio?,Cat Meowing,Water Dripping,Bell Ringing,Security Alarm,A
+456058.mp3,Which sound event ends latest in the given audio?,Insect Buzzing,Fire burning,Fan,Squeaking,B
+423450.mp3,Which sound event ends latest in the given audio?,Fan,Vehicle Horn Honk,Vehicle engine,Human Speech,C
+429981.mp3,Which sound event ends latest in the given audio?,Human Speech,Dog Barking,Atmospheric Sounds,Siren,D
+540281.mp3,Which sound event ends latest in the given audio?,Metallic Sounds,Wind,Human Speech,Dog Barking,A
+752126.mp3,Which sound event ends latest in the given audio?,Thunder,Piano Playing,Electronic Beep,Sheep_Goat Bleat,B
+476735.mp3,Which sound event ends latest in the given audio?,Card Reader,Car Honking,Atmospheric Sounds,Thunder,C
+785763.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Cat Meowing,Clapping,Piano Playing,D
+752326.mp3,Which sound event ends latest in the given audio?,Machine sounds,Insect Buzzing,Alarm sound,Electronic Game,A
+553508.mp3,Which sound event ends latest in the given audio?,Motorcycle driving by,Clock Ticking,Doorbell,Atmospheric Sounds,B
+620561.mp3,Which sound event ends latest in the given audio?,Beeping,Bell Ringing,Bird Chirp,Airplane sound,C
+509541.mp3,Which sound event ends latest in the given audio?,Bicycle,Hissing,Monotone Sounds,Human Speech,D
+418153.mp3,Which sound event ends latest in the given audio?,Cat Meowing,Traffic Noise,Phone Dialing,Screaming,A
+369799.mp3,Which sound event ends latest in the given audio?,Violin Playing,Crying,Atmospheric Sounds,Phone Ringing,B
+161883.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Beeping,Ship_Boat sound,Hissing,C
+437448.mp3,Which sound event ends latest in the given audio?,Vehicle engine,Thud,Monotone Sounds,Wood sounds,D
+680666.mp3,Which sound event ends latest in the given audio?,Dog Barking,Monotone Sounds,Electronic Beep,Stream_River,A
+406175.mp3,Which sound event ends latest in the given audio?,Hammer,Traffic Noise,Water Dripping,Vehicle Horn Honk,B
+563746.mp3,Which sound event ends latest in the given audio?,Violin Playing,Wood sounds,Cat Meowing,Distant Sounds,C
+501804.mp3,Which sound event ends latest in the given audio?,Thumping,Sneezing,Camera Shutter,Distant Sounds,D
+250924.mp3,Which sound event ends latest in the given audio?,Vehicle engine,Drums,Card Reader,Raining,A
+169139.mp3,Which sound event ends latest in the given audio?,Wood sounds,Footsteps,Guitar Playing,Airplane engine,B
+663845.mp3,Which sound event ends latest in the given audio?,Waves,Humming,Bird Chirp,Fire Alarm,C
+102853.mp3,Which sound event ends latest in the given audio?,Metallic Sounds,Breathing,Siren,Vehicle engine,D
+73208.mp3,Which sound event ends latest in the given audio?,Raining,Card Reader,Beeping,Cowbell Ringing,A
+782978.mp3,Which sound event ends latest in the given audio?,Wind,Piano Playing,Humming,Monotone Sounds,B
+167299.mp3,Which sound event ends latest in the given audio?,Piano Playing,Traffic Noise,Footsteps,Doorbell,C
+700991.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Cheering,Elevator,Wind,D
+19549.mp3,Which sound event ends latest in the given audio?,Rustling,Beeping,Vehicle engine,Phone Ringing,A
+422924.mp3,Which sound event ends latest in the given audio?,Printer,Announcement,Atmospheric Sounds,Rooster Crow,B
+155130.mp3,Which sound event ends latest in the given audio?,Bell Ringing,Ringing,Traffic Noise,Alarm sound,C
+503017.mp3,Which sound event ends latest in the given audio?,Violin Playing,Helicopter sound,Distant Sounds,White noise,D
+71673.mp3,Which sound event ends latest in the given audio?,Shouting,Bird Chirp,Metallic Sounds,Vehicle engine,A
+641588.mp3,Which sound event ends latest in the given audio?,Siren,Sheep_Goat Bleat,Wind,Saxophone,B
+22809.mp3,Which sound event ends latest in the given audio?,Electronic Beep,Hissing,Vehicle engine,Screaming,C
+606963.mp3,Which sound event ends latest in the given audio?,Siren,Cowbell Ringing,Elevator,Shouting,D
+765129.mp3,Which sound event ends latest in the given audio?,Squeaking,Vehicle braking,Beeping,Wind,A
+168308.mp3,Which sound event ends latest in the given audio?,Guitar Playing,Metallic Sounds,Atmospheric Sounds,Clock Ticking,B
+61215.mp3,Which sound event ends latest in the given audio?,Rooster Crow,Human Speech,Monotone Sounds,Cowbell Ringing,C
+503551.mp3,Which sound event ends latest in the given audio?,Wood sounds,Bird Chirp,Piano Playing,Car driving by,D
+466243.mp3,Which sound event ends latest in the given audio?,Wind,Bell Ringing,Shouting,Keyboard sounds,A
+120695.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Raining,Bird Chirp,Car door sound,B
+571369.mp3,Which sound event ends latest in the given audio?,Traffic Noise,Phone Ringing,Piano Playing,Thunder,C
+21310.mp3,Which sound event ends latest in the given audio?,Violin Playing,Wolf Howl,Hammer,Sneezing,D
+661639.mp3,Which sound event ends latest in the given audio?,Door sounds,Footsteps,Ship_Boat sound,Wood sounds,A
+510910.mp3,Which sound event ends latest in the given audio?,Piano Playing,Rooster Crow,Hiccup,Phone Ringing,B
+376800.mp3,Which sound event ends latest in the given audio?,Waves,Monkey sounds,Distant Sounds,Car door sound,C
+584017.mp3,Which sound event ends latest in the given audio?,Security Alarm,Fan,Motorcycle driving by,Insect Buzzing,D
+789155.mp3,Which sound event ends latest in the given audio?,Raining,Cowbell Ringing,Distant Sounds,Car driving by,A
+327288.mp3,Which sound event ends latest in the given audio?,Trumpet,Rustling,Atmospheric Sounds,Coughing,B
+556536.mp3,Which sound event ends latest in the given audio?,Car door sound,Coughing,Jackhammer,Wind,C
+779876.mp3,Which sound event ends latest in the given audio?,Fire burning,Shouting,Bird Chirp,Atmospheric Sounds,D
+575249.mp3,Which sound event ends latest in the given audio?,Guitar Playing,Car driving by,Human Speech,Clock Ticking,A
+46733.mp3,Which sound event ends latest in the given audio?,Camera Shutter,Car driving by,Dog Barking,Drums,B
+169231.mp3,Which sound event ends latest in the given audio?,Snoring,Distant Sounds,Water Dripping,Phone Ringing,C
+637496.mp3,Which sound event ends latest in the given audio?,Stream_River,Humming,Traffic Noise,Grinding,D
+168078.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Airplane engine,Card Reader,Hand Sander,A
+752052.mp3,Which sound event ends latest in the given audio?,Explosion,Clapping,Bicycle,Raining,B
+383483.mp3,Which sound event ends latest in the given audio?,Doorbell,Vehicle braking,Dog Barking,Human Speech,C
+739496.mp3,Which sound event ends latest in the given audio?,Sneezing,Rattling,Camera Shutter,Raining,D
+406064.mp3,Which sound event ends latest in the given audio?,Human Speech,Saxophone,Hissing,Security Alarm,A
+86193.mp3,Which sound event ends latest in the given audio?,Hiccup,Hissing,Atmospheric Sounds,Water Dripping,B
+405206.mp3,Which sound event ends latest in the given audio?,Raining,Siren,Coughing,Camera Shutter,C
+377324.mp3,Which sound event ends latest in the given audio?,Human Speech,Car driving by,Distant Sounds,Cowbell Ringing,D
+170984.mp3,Which sound event ends latest in the given audio?,Squeaking,Wind,Monotone Sounds,Cowbell Ringing,A
+166417.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Airplane sound,Piano Playing,ATM Machine,B
+611369.mp3,Which sound event ends latest in the given audio?,Ringing,Thunder,Humming,Distant Sounds,C
+455736.mp3,Which sound event ends latest in the given audio?,Piano Playing,Distant Sounds,Vehicle Horn Honk,Vehicle engine,D
+477336.mp3,Which sound event ends latest in the given audio?,Sneezing,Fire Alarm,Raining,Cat Meowing,A
+127990.mp3,Which sound event ends latest in the given audio?,Rattling,Dog Barking,Drums,Water Dripping,B
+57047.mp3,Which sound event ends latest in the given audio?,Human Speech,Saxophone,Distant Sounds,Hand Sander,C
+752396.mp3,Which sound event ends latest in the given audio?,Snoring,Fire burning,Distant Sounds,Vehicle engine,D
+366403.mp3,Which sound event ends latest in the given audio?,Doorbell,Bell Ringing,Metallic Sounds,Snoring,A
+512965.mp3,Which sound event ends latest in the given audio?,Doorbell,Raining,Monotone Sounds,Bird Chirp,B
+734083.mp3,Which sound event ends latest in the given audio?,Bird Chirp,Coughing,Siren,Camera Shutter,C
+406897.mp3,Which sound event ends latest in the given audio?,Bell Ringing,Distant Sounds,Ticking,Raining,D
+660407.mp3,Which sound event ends latest in the given audio?,Laughter,Distant Sounds,Thunder,Squeaking,A
+537203.mp3,Which sound event ends latest in the given audio?,Metallic Sounds,Wind,Atmospheric Sounds,Bicycle,B
+697764.mp3,Which sound event ends latest in the given audio?,Saxophone,Distant Sounds,Train sound,Clock Ticking,C
+610266.mp3,Which sound event ends latest in the given audio?,Ringing,Atmospheric Sounds,Alarm sound,Bell Ringing,D
+484350.mp3,Which sound event ends latest in the given audio?,Thunder,Bicycle,Breathing,Horse Neigh,A
+561803.mp3,Which sound event ends latest in the given audio?,Bell Ringing,Siren,Metallic Sounds,Hiccup,B
+341608.mp3,Which sound event ends latest in the given audio?,Machine sounds,Fan,Vehicle engine,Bird Chirp,C
+324314.mp3,Which sound event ends latest in the given audio?,Chainsaw,Rooster Crow,Airplane engine,Cheering,D
+344951.mp3,Which sound event ends latest in the given audio?,Car driving by,Insect Buzzing,Thud,Clock Ticking,A
+634721.mp3,Which sound event ends latest in the given audio?,Insect Buzzing,Traffic Noise,Monotone Sounds,Water Dripping,B
+245327.mp3,Which sound event ends latest in the given audio?,Human Speech,Microwave,Drums,Fire Alarm,C
+650417.mp3,Which sound event ends latest in the given audio?,Snoring,Ringing,Wood sounds,Cat Meowing,D
+212774.mp3,Which sound event ends latest in the given audio?,Waves,Vehicle Horn Honk,Airplane sound,Atmospheric Sounds,A
+752358.mp3,Which sound event ends latest in the given audio?,Cow Moo,Bell Ringing,Distant Sounds,Human Speech,B
+586556.mp3,Which sound event ends latest in the given audio?,Rooster Crow,Atmospheric Sounds,Waves,Bicycle,C
+431644.mp3,Which sound event ends latest in the given audio?,Fire burning,Distant Sounds,Singing,Crying,D
+757380.mp3,Which sound event ends latest in the given audio?,Coughing,Beeping,Electronic Game,Vehicle engine,A
+268525.mp3,Which sound event ends latest in the given audio?,Microwave,Atmospheric Sounds,Snoring,Beeping,B
+99683.mp3,Which sound event ends latest in the given audio?,Saxophone,Ticking,Car driving by,Fan,C
+127605.mp3,Which sound event ends latest in the given audio?,Microwave,Beeping,White noise,Waves,D
+405574.mp3,Which sound event ends latest in the given audio?,Wind,Laughter,Atmospheric Sounds,Car door sound,A
+181699.mp3,Which sound event ends latest in the given audio?,Wind,Human Speech,Siren,Bus sound,B
+252282.mp3,Which sound event ends latest in the given audio?,Electronic Beep,Cranking,Guitar Playing,Atmospheric Sounds,C
+510055.mp3,Which sound event ends latest in the given audio?,Distant Sounds,Bird Chirp,Thud,Stream_River,D
+617031.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Monkey sounds,Thud,Doorbell,A
+725322.mp3,Which sound event ends latest in the given audio?,Thunder,Footsteps,Bird Chirp,Monotone Sounds,B
+249748.mp3,Which sound event ends latest in the given audio?,Atmospheric Sounds,Raining,Snoring,Hand Sander,C

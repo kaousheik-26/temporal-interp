@@ -1,0 +1,529 @@
+filename,question,A,B,C,D,correct_label
+344938.mp3,Which sound event starts earliest in the given audio?,Vehicle engine,Bird Chirp,Hand Sander,Distant Sounds,A
+649156.mp3,Which sound event starts earliest in the given audio?,Cat Meowing,Cheering,Trumpet,Doorbell,B
+106836.mp3,Which sound event starts earliest in the given audio?,Screaming,Washing Machine,Vehicle engine,Explosion,C
+67306.mp3,Which sound event starts earliest in the given audio?,Insect Buzzing,Thud,Electronic Beep,Human Speech,D
+191919.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Clapping,Thumping,Doorbell,A
+429179.mp3,Which sound event starts earliest in the given audio?,Monkey sounds,Raining,Atmospheric Sounds,Airplane sound,B
+99683.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Ticking,Car driving by,Phone Ringing,C
+755202.mp3,Which sound event starts earliest in the given audio?,Dog Barking,Vehicle Horn Honk,Elevator,Bell Ringing,D
+565802.mp3,Which sound event starts earliest in the given audio?,Car driving by,Atmospheric Sounds,Raining,Bird Chirp,A
+240100.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Bird Chirp,Sniffing,Thud,B
+113329.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,Clock Ticking,Atmospheric Sounds,Rustling,C
+234934.mp3,Which sound event starts earliest in the given audio?,Cat Meowing,Car door sound,Water Dripping,Monotone Sounds,D
+181699.mp3,Which sound event starts earliest in the given audio?,Wind,Human Speech,Alarm sound,Monkey sounds,A
+394716.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Footsteps,Distant Sounds,Metallic Sounds,B
+376926.mp3,Which sound event starts earliest in the given audio?,Explosion,Jackhammer,Clock Ticking,Bird Chirp,C
+593513.mp3,Which sound event starts earliest in the given audio?,Security Alarm,Cat Meowing,Bell Ringing,Thumping,D
+102853.mp3,Which sound event starts earliest in the given audio?,Siren,Thumping,Vehicle engine,Phone Ringing,A
+371454.mp3,Which sound event starts earliest in the given audio?,Shouting,Lawn Mower,Insect Buzzing,Vehicle braking,B
+657763.mp3,Which sound event starts earliest in the given audio?,Stream_River,Atmospheric Sounds,Vehicle engine,Thud,C
+30823.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,Siren,Sniffing,Traffic Noise,D
+267973.mp3,Which sound event starts earliest in the given audio?,Lawn Mower,Cowbell Ringing,Fire burning,Dog Barking,A
+505955.mp3,Which sound event starts earliest in the given audio?,Clapping,Hammer,Microwave,Distant Sounds,B
+466243.mp3,Which sound event starts earliest in the given audio?,Helicopter sound,Microwave,Wind,Bell Ringing,C
+691540.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Fire Alarm,Raining,Car driving by,D
+37928.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,ATM Machine,Atmospheric Sounds,Wind,A
+195111.mp3,Which sound event starts earliest in the given audio?,Car driving by,Bird Chirp,Siren,Distant Sounds,B
+680666.mp3,Which sound event starts earliest in the given audio?,Phone Ringing,Piano Playing,Dog Barking,Alarm sound,C
+206029.mp3,Which sound event starts earliest in the given audio?,Explosion,Machine sounds,Human Speech,Bird Chirp,D
+533012.mp3,Which sound event starts earliest in the given audio?,Stream_River,Distant Sounds,Human Speech,Traffic Noise,A
+454025.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Vehicle Horn Honk,Bird Chirp,Metallic Sounds,B
+179086.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Violin Playing,Alarm sound,Human Speech,C
+165387.mp3,Which sound event starts earliest in the given audio?,Thunder,Monotone Sounds,Bell Ringing,Machine sounds,D
+19837.mp3,Which sound event starts earliest in the given audio?,Footsteps,Security Alarm,Distant Sounds,Horse Neigh,A
+660407.mp3,Which sound event starts earliest in the given audio?,Squeaking,Laughter,Traffic Noise,Vehicle Horn Honk,B
+143115.mp3,Which sound event starts earliest in the given audio?,Insect Buzzing,Car Honking,Human Speech,Beeping,C
+593519.mp3,Which sound event starts earliest in the given audio?,Phone Dialing,Cheering,Cat Meowing,Bell Ringing,D
+683018.mp3,Which sound event starts earliest in the given audio?,Grinding,Distant Sounds,Alarm sound,Waves,A
+636907.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Stream_River,Thud,Rooster Crow,B
+113320.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Distant Sounds,Traffic Noise,Stream_River,C
+537094.mp3,Which sound event starts earliest in the given audio?,Clock Ticking,Bird Chirp,Vehicle engine,Human Speech,D
+173981.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Monkey sounds,Power Saw,Alarm sound,A
+578523.mp3,Which sound event starts earliest in the given audio?,Camera Shutter,Bird Chirp,Washing Machine,Atmospheric Sounds,B
+50897.mp3,Which sound event starts earliest in the given audio?,ATM Machine,Bell Ringing,Vehicle engine,Clicking,C
+581129.mp3,Which sound event starts earliest in the given audio?,Vehicle engine,Vehicle Horn Honk,Human Speech,Bird Chirp,D
+41458.mp3,Which sound event starts earliest in the given audio?,Screaming,Wind,Thud,Traffic Noise,A
+96856.mp3,Which sound event starts earliest in the given audio?,Thumping,Drums,Footsteps,Stream_River,B
+180043.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Saxophone,Sniffing,Hissing,C
+438253.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Bus sound,Siren,Announcement,D
+275238.mp3,Which sound event starts earliest in the given audio?,Siren,Thud,Bird Chirp,Distant Sounds,A
+191646.mp3,Which sound event starts earliest in the given audio?,Laughter,Alarm sound,Water Dripping,Singing,B
+177548.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Clapping,Rattling,Atmospheric Sounds,C
+484350.mp3,Which sound event starts earliest in the given audio?,Machine sounds,Saxophone,Thunder,Horse Neigh,D
+556027.mp3,Which sound event starts earliest in the given audio?,Human Speech,Distant Sounds,Washing Machine,Dog Barking,A
+734083.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Siren,Truck driving by,Guitar Playing,B
+760516.mp3,Which sound event starts earliest in the given audio?,Metallic Sounds,Singing,Wind,Vehicle braking,C
+74517.mp3,Which sound event starts earliest in the given audio?,Sleeping Sounds,Rustling,Drums,Alarm sound,D
+78562.mp3,Which sound event starts earliest in the given audio?,Alarm sound,Clock Ticking,Fire burning,Footsteps,A
+515530.mp3,Which sound event starts earliest in the given audio?,White noise,Bell Ringing,Card Reader,Laughter,B
+73267.mp3,Which sound event starts earliest in the given audio?,Thunder,Electronic Beep,Bird Chirp,Button Press,C
+591212.mp3,Which sound event starts earliest in the given audio?,Insect Buzzing,Truck driving by,Atmospheric Sounds,Violin Playing,D
+723256.mp3,Which sound event starts earliest in the given audio?,Humming,Beeping,Clicking,Cow Moo,A
+627880.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Wind,Sheep_Goat Bleat,Singing,B
+362943.mp3,Which sound event starts earliest in the given audio?,Security Alarm,Power Saw,Car door sound,Wood sounds,C
+80398.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Dog Barking,Alarm sound,Clapping,D
+86193.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Violin Playing,Hissing,ATM Machine,A
+326834.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Human Speech,Machine sounds,Wolf Howl,B
+334639.mp3,Which sound event starts earliest in the given audio?,Human Speech,Cowbell Ringing,Bus sound,Explosion,C
+75059.mp3,Which sound event starts earliest in the given audio?,Siren,Lawn Mower,Pig Oink,Clapping,D
+483908.mp3,Which sound event starts earliest in the given audio?,Raining,Clicking,Guitar Playing,Distant Sounds,A
+170984.mp3,Which sound event starts earliest in the given audio?,Wood sounds,Squeaking,Monotone Sounds,Elevator,B
+705232.mp3,Which sound event starts earliest in the given audio?,Guitar Playing,Card Reader,Monotone Sounds,Airplane engine,C
+208044.mp3,Which sound event starts earliest in the given audio?,Rustling,Human Speech,Monotone Sounds,Drums,D
+181424.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Waves,Human Speech,Car driving by,A
+378139.mp3,Which sound event starts earliest in the given audio?,Footsteps,Wind,Piano Playing,Rustling,B
+148854.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Motorcycle driving by,Bird Chirp,Sleeping Sounds,C
+184725.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Human Speech,Distant Sounds,Dog Barking,D
+571369.mp3,Which sound event starts earliest in the given audio?,Piano Playing,Snoring,Thunder,Fan,A
+100476.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Saxophone,Raining,Thumping,B
+118163.mp3,Which sound event starts earliest in the given audio?,Car driving by,Atmospheric Sounds,Footsteps,Ringing,C
+761056.mp3,Which sound event starts earliest in the given audio?,Sniffing,Piano Playing,Airplane sound,Atmospheric Sounds,D
+131197.mp3,Which sound event starts earliest in the given audio?,Human Speech,Door sounds,Phone Ringing,Fire Alarm,A
+255545.mp3,Which sound event starts earliest in the given audio?,Phone Dialing,Raining,Squeaking,Hiccup,B
+516878.mp3,Which sound event starts earliest in the given audio?,Car driving by,Footsteps,Raining,Trumpet,C
+54823.mp3,Which sound event starts earliest in the given audio?,Footsteps,Phone Ringing,Fire Alarm,Dog Barking,D
+785763.mp3,Which sound event starts earliest in the given audio?,Piano Playing,Wolf Howl,Clapping,Alarm sound,A
+471613.mp3,Which sound event starts earliest in the given audio?,Fan,Laughter,Printer,Monkey sounds,B
+528249.mp3,Which sound event starts earliest in the given audio?,Human Speech,Wood sounds,Train sound,Metallic Sounds,C
+127605.mp3,Which sound event starts earliest in the given audio?,Microwave,Monotone Sounds,Horse Neigh,Waves,D
+383483.mp3,Which sound event starts earliest in the given audio?,Dog Barking,Human Speech,Doorbell,Fire burning,A
+324314.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Airplane engine,Cheering,Alarm sound,B
+124982.mp3,Which sound event starts earliest in the given audio?,Sheep_Goat Bleat,ATM Machine,Keyboard sounds,Beeping,C
+438354.mp3,Which sound event starts earliest in the given audio?,Car door sound,Atmospheric Sounds,Wind,Announcement,D
+155292.mp3,Which sound event starts earliest in the given audio?,Vehicle engine,Water Dripping,Bird Chirp,Explosion,A
+746322.mp3,Which sound event starts earliest in the given audio?,Wind,Train sound,Distant Sounds,Sheep_Goat Bleat,B
+160571.mp3,Which sound event starts earliest in the given audio?,Fire Alarm,Elevator,Door sounds,Shouting,C
+21310.mp3,Which sound event starts earliest in the given audio?,Sneezing,Piano Playing,Microwave,Hammer,D
+552042.mp3,Which sound event starts earliest in the given audio?,White noise,Security Alarm,Guitar Playing,Atmospheric Sounds,A
+59196.mp3,Which sound event starts earliest in the given audio?,Lawn Mower,Waves,Human Speech,Camera Shutter,B
+724012.mp3,Which sound event starts earliest in the given audio?,Doorbell,Distant Sounds,Power Drill,Cat Meowing,C
+624343.mp3,Which sound event starts earliest in the given audio?,Raining,Clock Ticking,Pig Oink,Snoring,D
+711100.mp3,Which sound event starts earliest in the given audio?,Machine sounds,Doorbell,Piano Playing,Atmospheric Sounds,A
+779890.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Jackhammer,Bird Chirp,Electronic Game,B
+460754.mp3,Which sound event starts earliest in the given audio?,Coughing,Vehicle Horn Honk,Traffic Noise,Lawn Mower,C
+380440.mp3,Which sound event starts earliest in the given audio?,Laughter,Thumping,Distant Sounds,Dog Barking,D
+554956.mp3,Which sound event starts earliest in the given audio?,Raining,Helicopter sound,Alarm sound,Sheep_Goat Bleat,A
+479839.mp3,Which sound event starts earliest in the given audio?,Fire burning,Crying,Washing Machine,Bell Ringing,B
+91234.mp3,Which sound event starts earliest in the given audio?,Cowbell Ringing,Pig Oink,Atmospheric Sounds,Water Dripping,C
+337997.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Alarm sound,Jackhammer,Human Speech,D
+621233.mp3,Which sound event starts earliest in the given audio?,Sniffing,Distant Sounds,Guitar Playing,Car driving by,A
+177546.mp3,Which sound event starts earliest in the given audio?,Dog Barking,Atmospheric Sounds,Bicycle,Human Speech,B
+616596.mp3,Which sound event starts earliest in the given audio?,Vehicle braking,Waves,Atmospheric Sounds,Electronic Game,C
+546862.mp3,Which sound event starts earliest in the given audio?,Cow Moo,Keyboard sounds,Vehicle Horn Honk,Waves,D
+376800.mp3,Which sound event starts earliest in the given audio?,Waves,Distant Sounds,Microwave,Sheep_Goat Bleat,A
+575249.mp3,Which sound event starts earliest in the given audio?,Security Alarm,Guitar Playing,Helicopter sound,Human Speech,B
+700981.mp3,Which sound event starts earliest in the given audio?,Airplane sound,Microwave,Hammer,Human Speech,C
+610266.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Elevator,Alarm sound,Bell Ringing,D
+397128.mp3,Which sound event starts earliest in the given audio?,Waves,Thud,Sleeping Sounds,Bird Chirp,A
+581528.mp3,Which sound event starts earliest in the given audio?,Alarm sound,White noise,Laughter,Bell Ringing,B
+695813.mp3,Which sound event starts earliest in the given audio?,Breathing,Motorcycle driving by,Water Dripping,Insect Buzzing,C
+336777.mp3,Which sound event starts earliest in the given audio?,Cheering,Traffic Noise,Thud,Atmospheric Sounds,D
+672252.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Train sound,Raining,Cowbell Ringing,A
+776073.mp3,Which sound event starts earliest in the given audio?,Whistle,Piano Playing,Alarm sound,Cow Moo,B
+331689.mp3,Which sound event starts earliest in the given audio?,Raining,Singing,Cat Meowing,Breathing,C
+612266.mp3,Which sound event starts earliest in the given audio?,Car driving by,Trumpet,Alarm sound,Dog Barking,D
+202942.mp3,Which sound event starts earliest in the given audio?,Metallic Sounds,Sheep_Goat Bleat,Guitar Playing,Monotone Sounds,A
+331705.mp3,Which sound event starts earliest in the given audio?,Clock Ticking,Insect Buzzing,Monotone Sounds,Vehicle engine,B
+620489.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Footsteps,Raining,Saxophone,C
+575195.mp3,Which sound event starts earliest in the given audio?,Horse Neigh,Siren,Distant Sounds,Wind,D
+727132.mp3,Which sound event starts earliest in the given audio?,Shouting,Dog Barking,Thud,Motorcycle driving by,A
+510910.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Bird Chirp,Rustling,Announcement,B
+571217.mp3,Which sound event starts earliest in the given audio?,Horse Neigh,Elevator,Footsteps,Wood sounds,C
+663379.mp3,Which sound event starts earliest in the given audio?,Sneezing,Vehicle Horn Honk,Fire burning,Power Drill,D
+127654.mp3,Which sound event starts earliest in the given audio?,Raining,Airplane sound,Atmospheric Sounds,Fan,A
+591187.mp3,Which sound event starts earliest in the given audio?,Electronic Game,Guitar Playing,Beeping,Snoring,B
+166417.mp3,Which sound event starts earliest in the given audio?,Lawn Mower,Airplane sound,Distant Sounds,Phone Ringing,C
+408703.mp3,Which sound event starts earliest in the given audio?,Pig Oink,Whistle,Monotone Sounds,Jackhammer,D
+765786.mp3,Which sound event starts earliest in the given audio?,Cat Meowing,Thunder,Distant Sounds,Siren,A
+591063.mp3,Which sound event starts earliest in the given audio?,Announcement,Bird Chirp,Phone Dialing,Washing Machine,B
+719564.mp3,Which sound event starts earliest in the given audio?,Thunder,Sneezing,Distant Sounds,Chainsaw,C
+52346.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Human Speech,Car Honking,Guitar Playing,D
+137825.mp3,Which sound event starts earliest in the given audio?,Machine sounds,Beeping,Insect Buzzing,Distant Sounds,A
+706149.mp3,Which sound event starts earliest in the given audio?,Sewing Machine,Insect Buzzing,Traffic Noise,Human Speech,B
+156037.mp3,Which sound event starts earliest in the given audio?,Microwave,Coughing,Distant Sounds,Clicking,C
+556536.mp3,Which sound event starts earliest in the given audio?,Wood sounds,Distant Sounds,Bird Chirp,Rattling,D
+437448.mp3,Which sound event starts earliest in the given audio?,Wood sounds,Cheering,Monotone Sounds,Thumping,A
+451401.mp3,Which sound event starts earliest in the given audio?,Camera Shutter,Machine sounds,Airplane sound,Waves,B
+784365.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,Machine sounds,Humming,Motorcycle driving by,C
+268525.mp3,Which sound event starts earliest in the given audio?,Beeping,Microwave,Printer,Atmospheric Sounds,D
+586531.mp3,Which sound event starts earliest in the given audio?,Breathing,Wood sounds,Siren,Thud,A
+143225.mp3,Which sound event starts earliest in the given audio?,Trumpet,Crying,Car Honking,Cow Moo,B
+253085.mp3,Which sound event starts earliest in the given audio?,Doorbell,Vehicle braking,Bird Chirp,Hissing,C
+739496.mp3,Which sound event starts earliest in the given audio?,Coughing,Sheep_Goat Bleat,Rattling,Wind,D
+450655.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Horse Neigh,Singing,Machine sounds,A
+635605.mp3,Which sound event starts earliest in the given audio?,Clapping,Jackhammer,Fire burning,Airplane engine,B
+166432.mp3,Which sound event starts earliest in the given audio?,Beeping,Wood sounds,Door sounds,Footsteps,C
+424878.mp3,Which sound event starts earliest in the given audio?,Siren,Microwave,Footsteps,Trumpet,D
+137702.mp3,Which sound event starts earliest in the given audio?,Sneezing,Clock Ticking,Ringing,Atmospheric Sounds,A
+12648.mp3,Which sound event starts earliest in the given audio?,Sneezing,Bell Ringing,Card Reader,Wind,B
+700910.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Keyboard sounds,Wind,Clock Ticking,C
+172784.mp3,Which sound event starts earliest in the given audio?,Clicking,Thunder,Electronic Game,Beeping,D
+783660.mp3,Which sound event starts earliest in the given audio?,Thud,Fire burning,Cowbell Ringing,Atmospheric Sounds,A
+453584.mp3,Which sound event starts earliest in the given audio?,Stream_River,Traffic Noise,Drums,Distant Sounds,B
+661639.mp3,Which sound event starts earliest in the given audio?,Saxophone,Door sounds,Wood sounds,Footsteps,C
+215447.mp3,Which sound event starts earliest in the given audio?,Piano Playing,Sneezing,Atmospheric Sounds,Airplane sound,D
+370005.mp3,Which sound event starts earliest in the given audio?,Electronic Beep,Thumping,Whistle,Monotone Sounds,A
+528231.mp3,Which sound event starts earliest in the given audio?,Alarm sound,Human Speech,Vehicle engine,Clicking,B
+136431.mp3,Which sound event starts earliest in the given audio?,Human Speech,Cowbell Ringing,Beeping,Vehicle engine,C
+513874.mp3,Which sound event starts earliest in the given audio?,Car driving by,Waves,Thud,Clapping,D
+77003.mp3,Which sound event starts earliest in the given audio?,Laughter,Siren,Camera Shutter,Drums,A
+438859.mp3,Which sound event starts earliest in the given audio?,Alarm sound,Whistle,Sheep_Goat Bleat,Fire burning,B
+106600.mp3,Which sound event starts earliest in the given audio?,Fire burning,Monotone Sounds,Washing Machine,Train sound,C
+254369.mp3,Which sound event starts earliest in the given audio?,Trumpet,Siren,Airplane sound,Distant Sounds,D
+159989.mp3,Which sound event starts earliest in the given audio?,Traffic Noise,Footsteps,Thud,Doorbell,A
+407157.mp3,Which sound event starts earliest in the given audio?,Wood sounds,Human Speech,Hammer,ATM Machine,B
+752714.mp3,Which sound event starts earliest in the given audio?,Human Speech,Waves,Bird Chirp,Camera Shutter,C
+126437.mp3,Which sound event starts earliest in the given audio?,Alarm sound,Microwave,Announcement,Bird Chirp,D
+756872.mp3,Which sound event starts earliest in the given audio?,Drums,Car Honking,Hand Sander,Monotone Sounds,A
+635338.mp3,Which sound event starts earliest in the given audio?,Airplane sound,Insect Buzzing,Saxophone,Squeaking,B
+104420.mp3,Which sound event starts earliest in the given audio?,Human Speech,Bell Ringing,Traffic Noise,Cow Moo,C
+464791.mp3,Which sound event starts earliest in the given audio?,Car driving by,Stream_River,Thud,Human Speech,D
+414053.mp3,Which sound event starts earliest in the given audio?,Thud,Security Alarm,Airplane sound,Announcement,A
+169139.mp3,Which sound event starts earliest in the given audio?,Footsteps,Wood sounds,ATM Machine,Horse Neigh,B
+250383.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Human Speech,Stream_River,Card Reader,C
+727798.mp3,Which sound event starts earliest in the given audio?,Power Saw,Airplane engine,Siren,Water Dripping,D
+509541.mp3,Which sound event starts earliest in the given audio?,Hissing,Drums,Phone Dialing,Human Speech,A
+141778.mp3,Which sound event starts earliest in the given audio?,Traffic Noise,Crying,Dog Barking,Siren,B
+414068.mp3,Which sound event starts earliest in the given audio?,White noise,Cheering,Bell Ringing,Phone Ringing,C
+638934.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Electronic Game,Sewing Machine,Bird Chirp,D
+140596.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Guitar Playing,Door sounds,Human Speech,A
+109373.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Traffic Noise,Explosion,Atmospheric Sounds,B
+378365.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Clicking,Bicycle,Clapping,C
+74844.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Footsteps,Camera Shutter,Bird Chirp,D
+249304.mp3,Which sound event starts earliest in the given audio?,Alarm sound,Fan,Distant Sounds,Power Drill,A
+153543.mp3,Which sound event starts earliest in the given audio?,Breathing,Car Honking,Metallic Sounds,Raining,B
+341561.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Distant Sounds,Traffic Noise,Singing,C
+761057.mp3,Which sound event starts earliest in the given audio?,Airplane engine,Shouting,Bird Chirp,Distant Sounds,D
+255546.mp3,Which sound event starts earliest in the given audio?,Human Speech,Microwave,Vehicle Horn Honk,Rooster Crow,A
+253986.mp3,Which sound event starts earliest in the given audio?,Door sounds,Elevator,Beeping,Announcement,B
+507285.mp3,Which sound event starts earliest in the given audio?,Human Speech,Bicycle,Stream_River,Ticking,C
+37565.mp3,Which sound event starts earliest in the given audio?,Airplane engine,Camera Shutter,Siren,Raining,D
+416176.mp3,Which sound event starts earliest in the given audio?,Laughter,Sewing Machine,Security Alarm,Stream_River,A
+622635.mp3,Which sound event starts earliest in the given audio?,Squeaking,Bird Chirp,Footsteps,Doorbell,B
+330668.mp3,Which sound event starts earliest in the given audio?,Electronic Beep,Button Press,Distant Sounds,Vehicle engine,C
+396811.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Wind,Vehicle engine,Distant Sounds,D
+645949.mp3,Which sound event starts earliest in the given audio?,Vacuum Cleaner,Saxophone,Human Speech,Vehicle braking,A
+659000.mp3,Which sound event starts earliest in the given audio?,Singing,Rattling,Fire burning,Helicopter sound,B
+430960.mp3,Which sound event starts earliest in the given audio?,Metallic Sounds,Distant Sounds,Dog Barking,Motorcycle driving by,C
+745835.mp3,Which sound event starts earliest in the given audio?,Announcement,Metallic Sounds,Siren,Raining,D
+723874.mp3,Which sound event starts earliest in the given audio?,Snoring,Monotone Sounds,Grinding,Dog Barking,A
+781059.mp3,Which sound event starts earliest in the given audio?,Alarm sound,Vehicle engine,Human Speech,Button Press,B
+327147.mp3,Which sound event starts earliest in the given audio?,Motorcycle driving by,Squeaking,Bird Chirp,Fire burning,C
+714265.mp3,Which sound event starts earliest in the given audio?,Airplane sound,Sheep_Goat Bleat,Rustling,Distant Sounds,D
+172888.mp3,Which sound event starts earliest in the given audio?,Cat Meowing,Fire burning,Clock Ticking,Atmospheric Sounds,A
+510773.mp3,Which sound event starts earliest in the given audio?,Trumpet,Dog Barking,Footsteps,Alarm sound,B
+364822.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Alarm sound,Jackhammer,Helicopter sound,C
+391624.mp3,Which sound event starts earliest in the given audio?,Humming,Rustling,Dog Barking,Water Dripping,D
+462672.mp3,Which sound event starts earliest in the given audio?,Siren,Phone Ringing,Bird Chirp,Airplane sound,A
+654255.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Humming,Sheep_Goat Bleat,Security Alarm,B
+73208.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Electronic Game,Thunder,Snoring,C
+396528.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Violin Playing,Metallic Sounds,Beeping,D
+194460.mp3,Which sound event starts earliest in the given audio?,Clapping,Cat Meowing,Monotone Sounds,Sewing Machine,A
+249748.mp3,Which sound event starts earliest in the given audio?,Beeping,Breathing,Guitar Playing,Traffic Noise,B
+48989.mp3,Which sound event starts earliest in the given audio?,Chainsaw,Vehicle Horn Honk,Vehicle engine,Shouting,C
+331009.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Vehicle braking,Vehicle Horn Honk,Human Speech,D
+212774.mp3,Which sound event starts earliest in the given audio?,Waves,Atmospheric Sounds,Elevator,Cat Meowing,A
+334151.mp3,Which sound event starts earliest in the given audio?,Sneezing,Raining,Phone Ringing,Distant Sounds,B
+464931.mp3,Which sound event starts earliest in the given audio?,Security Alarm,Distant Sounds,Breathing,Car door sound,C
+720186.mp3,Which sound event starts earliest in the given audio?,Metallic Sounds,Camera Shutter,Announcement,Airplane engine,D
+650522.mp3,Which sound event starts earliest in the given audio?,Human Speech,Violin Playing,Printer,Airplane sound,A
+672478.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Laughter,Drums,Helicopter sound,B
+197454.mp3,Which sound event starts earliest in the given audio?,Hissing,Distant Sounds,Snoring,Singing,C
+237327.mp3,Which sound event starts earliest in the given audio?,Piano Playing,Stream_River,Vehicle engine,Distant Sounds,D
+353140.mp3,Which sound event starts earliest in the given audio?,Whistle,Electronic Game,Drums,Bird Chirp,A
+349858.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Announcement,Card Reader,Hissing,B
+406175.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Phone Ringing,Traffic Noise,Cow Moo,C
+535628.mp3,Which sound event starts earliest in the given audio?,Wood sounds,Monotone Sounds,Cow Moo,Power Saw,D
+180851.mp3,Which sound event starts earliest in the given audio?,Electronic Beep,Cow Moo,Atmospheric Sounds,Wind,A
+756809.mp3,Which sound event starts earliest in the given audio?,White noise,Monotone Sounds,Shouting,Waves,B
+586556.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Siren,Waves,Wolf Howl,C
+767487.mp3,Which sound event starts earliest in the given audio?,Electronic Beep,Singing,Atmospheric Sounds,Snoring,D
+262168.mp3,Which sound event starts earliest in the given audio?,Crying,Saxophone,Insect Buzzing,Metallic Sounds,A
+531790.mp3,Which sound event starts earliest in the given audio?,Metallic Sounds,Elevator,Bicycle,Fire Alarm,B
+556520.mp3,Which sound event starts earliest in the given audio?,Dog Barking,Phone Ringing,Thunder,Violin Playing,C
+696455.mp3,Which sound event starts earliest in the given audio?,ATM Machine,Saxophone,Monkey sounds,Power Saw,D
+631486.mp3,Which sound event starts earliest in the given audio?,Crying,Dog Barking,Explosion,Fan,A
+686692.mp3,Which sound event starts earliest in the given audio?,Footsteps,Bird Chirp,Atmospheric Sounds,Fire burning,B
+640859.mp3,Which sound event starts earliest in the given audio?,Squeaking,Bird Chirp,Stream_River,Cowbell Ringing,C
+501819.mp3,Which sound event starts earliest in the given audio?,Airplane engine,Alarm sound,Atmospheric Sounds,Metallic Sounds,D
+789155.mp3,Which sound event starts earliest in the given audio?,Raining,Horse Neigh,Distant Sounds,Singing,A
+762526.mp3,Which sound event starts earliest in the given audio?,Grinding,Traffic Noise,Thunder,Doorbell,B
+660519.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Siren,Electronic Beep,Singing,C
+653943.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Vehicle Horn Honk,Car driving by,Bird Chirp,D
+466844.mp3,Which sound event starts earliest in the given audio?,Laughter,Fire Alarm,Wood sounds,Bus sound,A
+521895.mp3,Which sound event starts earliest in the given audio?,Vacuum Cleaner,Sheep_Goat Bleat,Coughing,Truck driving by,B
+151807.mp3,Which sound event starts earliest in the given audio?,Thumping,Train sound,Monotone Sounds,Human Speech,C
+39890.mp3,Which sound event starts earliest in the given audio?,Vehicle braking,Screaming,Camera Shutter,Raining,D
+326313.mp3,Which sound event starts earliest in the given audio?,Laughter,Sheep_Goat Bleat,Wind,Guitar Playing,A
+468209.mp3,Which sound event starts earliest in the given audio?,Rattling,Elevator,Guitar Playing,Atmospheric Sounds,B
+533356.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Sewing Machine,Dog Barking,Distant Sounds,C
+168306.mp3,Which sound event starts earliest in the given audio?,Security Alarm,Waves,Footsteps,Door sounds,D
+250924.mp3,Which sound event starts earliest in the given audio?,Train sound,Distant Sounds,Explosion,Chainsaw,A
+580796.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Stream_River,Security Alarm,Airplane sound,B
+501821.mp3,Which sound event starts earliest in the given audio?,Camera Shutter,Atmospheric Sounds,Trumpet,Sleeping Sounds,C
+480625.mp3,Which sound event starts earliest in the given audio?,Siren,Ship_Boat sound,Footsteps,Rustling,D
+637913.mp3,Which sound event starts earliest in the given audio?,Cranking,Sneezing,Siren,Distant Sounds,A
+332850.mp3,Which sound event starts earliest in the given audio?,Cat Meowing,Vehicle engine,Electronic Game,Piano Playing,B
+660296.mp3,Which sound event starts earliest in the given audio?,Train sound,Security Alarm,Raining,Footsteps,C
+155130.mp3,Which sound event starts earliest in the given audio?,Phone Dialing,Sheep_Goat Bleat,Atmospheric Sounds,Car driving by,D
+572259.mp3,Which sound event starts earliest in the given audio?,Machine sounds,Waves,Sleeping Sounds,Airplane engine,A
+406064.mp3,Which sound event starts earliest in the given audio?,Violin Playing,Hissing,Atmospheric Sounds,Human Speech,B
+73519.mp3,Which sound event starts earliest in the given audio?,Ship_Boat sound,Electronic Game,Chainsaw,Atmospheric Sounds,C
+331520.mp3,Which sound event starts earliest in the given audio?,Horse Neigh,Hissing,Monotone Sounds,Traffic Noise,D
+675263.mp3,Which sound event starts earliest in the given audio?,Vehicle engine,Distant Sounds,Clicking,Vehicle Horn Honk,A
+331613.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Vehicle Horn Honk,Wood sounds,Car Honking,B
+698897.mp3,Which sound event starts earliest in the given audio?,Raining,Distant Sounds,Thud,Dog Barking,C
+698256.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Waves,Chainsaw,Human Speech,D
+267200.mp3,Which sound event starts earliest in the given audio?,Singing,Laughter,Clock Ticking,Alarm sound,A
+645850.mp3,Which sound event starts earliest in the given audio?,Power Saw,Bell Ringing,Humming,Bird Chirp,B
+22510.mp3,Which sound event starts earliest in the given audio?,Announcement,White noise,Waves,Piano Playing,C
+327663.mp3,Which sound event starts earliest in the given audio?,Vehicle braking,Monotone Sounds,Vehicle Horn Honk,Human Speech,D
+454792.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Electronic Beep,Human Speech,Alarm sound,A
+519366.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Cat Meowing,Vehicle engine,Violin Playing,B
+22809.mp3,Which sound event starts earliest in the given audio?,Hissing,Dog Barking,Vehicle engine,Cheering,C
+677349.mp3,Which sound event starts earliest in the given audio?,Human Speech,Clicking,Traffic Noise,Atmospheric Sounds,D
+623999.mp3,Which sound event starts earliest in the given audio?,Train sound,Singing,Rattling,Wind,A
+264870.mp3,Which sound event starts earliest in the given audio?,Breathing,Lawn Mower,Vehicle engine,Wind,B
+380037.mp3,Which sound event starts earliest in the given audio?,Microwave,Cheering,Stream_River,Hammer,C
+406897.mp3,Which sound event starts earliest in the given audio?,Truck driving by,Horse Neigh,Bell Ringing,Raining,D
+464259.mp3,Which sound event starts earliest in the given audio?,Raining,ATM Machine,Cat Meowing,Bicycle,A
+560515.mp3,Which sound event starts earliest in the given audio?,Singing,Bird Chirp,Car Honking,Crying,B
+733325.mp3,Which sound event starts earliest in the given audio?,Crying,Atmospheric Sounds,Power Saw,Camera Shutter,C
+624244.mp3,Which sound event starts earliest in the given audio?,Microwave,Car driving by,Human Speech,Bird Chirp,D
+553508.mp3,Which sound event starts earliest in the given audio?,Doorbell,Clock Ticking,Distant Sounds,Motorcycle driving by,A
+680577.mp3,Which sound event starts earliest in the given audio?,Piano Playing,Vehicle Horn Honk,Phone Ringing,Traffic Noise,B
+665939.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Saxophone,Bird Chirp,Raining,C
+26802.mp3,Which sound event starts earliest in the given audio?,Bus sound,Camera Shutter,Raining,Grinding,D
+55497.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Elevator,Pig Oink,Wind,A
+431644.mp3,Which sound event starts earliest in the given audio?,Camera Shutter,Crying,Monotone Sounds,Keyboard sounds,B
+74965.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Car door sound,Power Drill,Camera Shutter,C
+428847.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Saxophone,Raining,Rooster Crow,D
+27406.mp3,Which sound event starts earliest in the given audio?,Rooster Crow,Vehicle braking,Wood sounds,Coughing,A
+71529.mp3,Which sound event starts earliest in the given audio?,Electronic Game,Power Drill,Siren,Train sound,B
+537472.mp3,Which sound event starts earliest in the given audio?,Beeping,Piano Playing,Car driving by,Phone Dialing,C
+587753.mp3,Which sound event starts earliest in the given audio?,Sniffing,Chainsaw,Fire Alarm,Raining,D
+655144.mp3,Which sound event starts earliest in the given audio?,Dog Barking,Violin Playing,Announcement,Phone Ringing,A
+540462.mp3,Which sound event starts earliest in the given audio?,Crying,Insect Buzzing,Fire Alarm,Distant Sounds,B
+650907.mp3,Which sound event starts earliest in the given audio?,Motorcycle driving by,Vehicle Horn Honk,Laughter,Hissing,C
+548200.mp3,Which sound event starts earliest in the given audio?,Power Drill,Drums,Alarm sound,Stream_River,D
+527750.mp3,Which sound event starts earliest in the given audio?,Car driving by,Atmospheric Sounds,Coughing,Door sounds,A
+641588.mp3,Which sound event starts earliest in the given audio?,Motorcycle driving by,Cow Moo,Distant Sounds,Stream_River,B
+609757.mp3,Which sound event starts earliest in the given audio?,Security Alarm,Cheering,White noise,Violin Playing,C
+252282.mp3,Which sound event starts earliest in the given audio?,Guitar Playing,Monotone Sounds,Fire Alarm,Cranking,D
+377324.mp3,Which sound event starts earliest in the given audio?,Cowbell Ringing,Human Speech,Distant Sounds,Camera Shutter,A
+705058.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,White noise,Waves,Train sound,B
+608723.mp3,Which sound event starts earliest in the given audio?,Bicycle,Cheering,Washing Machine,Water Dripping,C
+61215.mp3,Which sound event starts earliest in the given audio?,Drums,Raining,Human Speech,Monotone Sounds,D
+54898.mp3,Which sound event starts earliest in the given audio?,Traffic Noise,Siren,Cheering,Door sounds,A
+332971.mp3,Which sound event starts earliest in the given audio?,Dog Barking,Squeaking,Vehicle braking,Microwave,B
+637496.mp3,Which sound event starts earliest in the given audio?,Drums,Traffic Noise,Power Drill,Crying,C
+451146.mp3,Which sound event starts earliest in the given audio?,Shouting,Vehicle Horn Honk,Wood sounds,Vehicle engine,D
+744776.mp3,Which sound event starts earliest in the given audio?,Siren,Raining,Human Speech,Distant Sounds,A
+57047.mp3,Which sound event starts earliest in the given audio?,Thunder,Distant Sounds,Train sound,Human Speech,B
+350656.mp3,Which sound event starts earliest in the given audio?,Clapping,Grinding,Singing,Alarm sound,C
+553181.mp3,Which sound event starts earliest in the given audio?,Vehicle engine,Clapping,Clock Ticking,Bird Chirp,D
+324281.mp3,Which sound event starts earliest in the given audio?,Singing,Wind,Dog Barking,Beeping,A
+405206.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Coughing,Monkey sounds,Motorcycle driving by,B
+476013.mp3,Which sound event starts earliest in the given audio?,Cowbell Ringing,Car door sound,Bird Chirp,Stream_River,C
+450821.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Screaming,Card Reader,Vehicle Horn Honk,D
+253992.mp3,Which sound event starts earliest in the given audio?,Elevator,Power Drill,Footsteps,Airplane sound,A
+262482.mp3,Which sound event starts earliest in the given audio?,Siren,Car door sound,Monotone Sounds,Fan,B
+623051.mp3,Which sound event starts earliest in the given audio?,Human Speech,Vehicle Horn Honk,Waves,Vacuum Cleaner,C
+435724.mp3,Which sound event starts earliest in the given audio?,Grinding,Cow Moo,Fan,Bicycle,D
+691547.mp3,Which sound event starts earliest in the given audio?,Car driving by,Monotone Sounds,Singing,Electronic Beep,A
+785669.mp3,Which sound event starts earliest in the given audio?,Wind,Bird Chirp,Fire Alarm,Car door sound,B
+269258.mp3,Which sound event starts earliest in the given audio?,Violin Playing,Fan,Crying,Dog Barking,C
+78787.mp3,Which sound event starts earliest in the given audio?,Thunder,Distant Sounds,Singing,Car driving by,D
+515042.mp3,Which sound event starts earliest in the given audio?,Truck driving by,Violin Playing,Card Reader,Grinding,A
+700991.mp3,Which sound event starts earliest in the given audio?,Camera Shutter,Wind,Distant Sounds,Bird Chirp,B
+24716.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Announcement,Siren,Raining,C
+646878.mp3,Which sound event starts earliest in the given audio?,Wind,Monotone Sounds,Footsteps,Bell Ringing,D
+584017.mp3,Which sound event starts earliest in the given audio?,Insect Buzzing,Shouting,Machine sounds,Microwave,A
+315644.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Chainsaw,Pig Oink,Announcement,B
+715298.mp3,Which sound event starts earliest in the given audio?,Guitar Playing,Footsteps,Bird Chirp,Atmospheric Sounds,C
+159747.mp3,Which sound event starts earliest in the given audio?,Car driving by,Violin Playing,Atmospheric Sounds,Siren,D
+755188.mp3,Which sound event starts earliest in the given audio?,Waves,Announcement,Bus sound,Card Reader,A
+172648.mp3,Which sound event starts earliest in the given audio?,Trumpet,Dog Barking,Squeaking,Footsteps,B
+512165.mp3,Which sound event starts earliest in the given audio?,Raining,Bell Ringing,Vehicle Horn Honk,ATM Machine,C
+199535.mp3,Which sound event starts earliest in the given audio?,Clock Ticking,Hissing,Alarm sound,Train sound,D
+455736.mp3,Which sound event starts earliest in the given audio?,Car door sound,Cowbell Ringing,Raining,Sleeping Sounds,A
+388336.mp3,Which sound event starts earliest in the given audio?,Cheering,Drums,Fan,Sheep_Goat Bleat,B
+676730.mp3,Which sound event starts earliest in the given audio?,Wood sounds,Atmospheric Sounds,Hammer,Siren,C
+344951.mp3,Which sound event starts earliest in the given audio?,Clock Ticking,Cowbell Ringing,Horse Neigh,Car driving by,D
+119768.mp3,Which sound event starts earliest in the given audio?,Hammer,Doorbell,Car Honking,Drums,A
+149977.mp3,Which sound event starts earliest in the given audio?,Drums,Machine sounds,Footsteps,Wood sounds,B
+141529.mp3,Which sound event starts earliest in the given audio?,Metallic Sounds,Distant Sounds,Raining,Alarm sound,C
+369799.mp3,Which sound event starts earliest in the given audio?,Cat Meowing,Card Reader,Atmospheric Sounds,Crying,D
+327288.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Machine sounds,Traffic Noise,Elevator,A
+686381.mp3,Which sound event starts earliest in the given audio?,Cowbell Ringing,Vehicle engine,Siren,Pig Oink,B
+748270.mp3,Which sound event starts earliest in the given audio?,Wood sounds,Card Reader,Snoring,Car door sound,C
+429933.mp3,Which sound event starts earliest in the given audio?,Machine sounds,Distant Sounds,Screaming,Elevator,D
+222803.mp3,Which sound event starts earliest in the given audio?,Lawn Mower,Saxophone,Pig Oink,Human Speech,A
+161883.mp3,Which sound event starts earliest in the given audio?,Electronic Beep,Ship_Boat sound,Security Alarm,Bell Ringing,B
+454874.mp3,Which sound event starts earliest in the given audio?,Wolf Howl,Saxophone,Traffic Noise,Clicking,C
+649896.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Distant Sounds,Fire Alarm,Wind,D
+590098.mp3,Which sound event starts earliest in the given audio?,Elevator,Vehicle braking,Monotone Sounds,Human Speech,A
+658613.mp3,Which sound event starts earliest in the given audio?,Rattling,Crying,Fire burning,Trumpet,B
+377024.mp3,Which sound event starts earliest in the given audio?,Doorbell,Monotone Sounds,Electronic Game,Clapping,C
+155780.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Drums,Vehicle engine,Atmospheric Sounds,D
+730508.mp3,Which sound event starts earliest in the given audio?,Hammer,Beeping,Footsteps,Bell Ringing,A
+779959.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Wind,Announcement,Bird Chirp,B
+410413.mp3,Which sound event starts earliest in the given audio?,Vehicle braking,Stream_River,Ticking,Snoring,C
+511348.mp3,Which sound event starts earliest in the given audio?,Trumpet,Phone Dialing,Metallic Sounds,Raining,D
+606963.mp3,Which sound event starts earliest in the given audio?,Clapping,Monkey sounds,Stream_River,Train sound,A
+469140.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Piano Playing,Rooster Crow,White noise,B
+702298.mp3,Which sound event starts earliest in the given audio?,Car driving by,Microwave,Raining,Distant Sounds,C
+104817.mp3,Which sound event starts earliest in the given audio?,Camera Shutter,Drums,Security Alarm,Power Drill,D
+472611.mp3,Which sound event starts earliest in the given audio?,Vehicle engine,Wolf Howl,Laughter,Beeping,A
+745104.mp3,Which sound event starts earliest in the given audio?,Piano Playing,Wind,Car door sound,Cow Moo,B
+234000.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Piano Playing,Wind,Vehicle engine,C
+438078.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Vehicle engine,Machine sounds,Bird Chirp,D
+786171.mp3,Which sound event starts earliest in the given audio?,Stream_River,Whistle,Saxophone,Ringing,A
+418153.mp3,Which sound event starts earliest in the given audio?,Hand Sander,Screaming,Cat Meowing,Guitar Playing,B
+71673.mp3,Which sound event starts earliest in the given audio?,Wood sounds,Bird Chirp,Shouting,Grinding,C
+369857.mp3,Which sound event starts earliest in the given audio?,Printer,Beeping,Trumpet,ATM Machine,D
+23098.mp3,Which sound event starts earliest in the given audio?,Human Speech,Bird Chirp,Trumpet,Truck driving by,A
+52637.mp3,Which sound event starts earliest in the given audio?,Violin Playing,Door sounds,Doorbell,Electronic Beep,B
+42117.mp3,Which sound event starts earliest in the given audio?,Drums,Sheep_Goat Bleat,Siren,Card Reader,C
+170107.mp3,Which sound event starts earliest in the given audio?,Coughing,Wolf Howl,Airplane sound,Monotone Sounds,D
+160702.mp3,Which sound event starts earliest in the given audio?,Grinding,Pig Oink,Car Honking,Violin Playing,A
+147534.mp3,Which sound event starts earliest in the given audio?,Phone Dialing,Beeping,Monotone Sounds,Bird Chirp,B
+487078.mp3,Which sound event starts earliest in the given audio?,Helicopter sound,Cat Meowing,Fire burning,Hammer,C
+563746.mp3,Which sound event starts earliest in the given audio?,Siren,Hand Sander,Wood sounds,Cat Meowing,D
+406420.mp3,Which sound event starts earliest in the given audio?,Shouting,Grinding,Phone Ringing,Atmospheric Sounds,A
+744298.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,Bird Chirp,Electronic Game,Distant Sounds,B
+140845.mp3,Which sound event starts earliest in the given audio?,Human Speech,Bus sound,Machine sounds,Monkey sounds,C
+672330.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Printer,Distant Sounds,Wind,D
+442382.mp3,Which sound event starts earliest in the given audio?,Rattling,Atmospheric Sounds,Elevator,Bicycle,A
+477920.mp3,Which sound event starts earliest in the given audio?,Microwave,Car driving by,Drums,Monotone Sounds,B
+634229.mp3,Which sound event starts earliest in the given audio?,Door sounds,Security Alarm,Crying,Wind,C
+517392.mp3,Which sound event starts earliest in the given audio?,Horse Neigh,Car driving by,Clock Ticking,Wind,D
+348757.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Thunder,Footsteps,Metallic Sounds,A
+643411.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,Wind,Bird Chirp,Sleeping Sounds,B
+722356.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Vehicle braking,Bird Chirp,Humming,C
+325167.mp3,Which sound event starts earliest in the given audio?,Door sounds,Atmospheric Sounds,Beeping,Sleeping Sounds,D
+170298.mp3,Which sound event starts earliest in the given audio?,Dog Barking,Waves,Squeaking,Sleeping Sounds,A
+31913.mp3,Which sound event starts earliest in the given audio?,Wolf Howl,Singing,Human Speech,Car door sound,B
+271145.mp3,Which sound event starts earliest in the given audio?,Announcement,Monkey sounds,Stream_River,Keyboard sounds,C
+782978.mp3,Which sound event starts earliest in the given audio?,Thunder,Coughing,Monotone Sounds,Piano Playing,D
+110394.mp3,Which sound event starts earliest in the given audio?,Waves,Alarm sound,Car door sound,Footsteps,A
+561803.mp3,Which sound event starts earliest in the given audio?,Cow Moo,Siren,Metallic Sounds,Truck driving by,B
+757380.mp3,Which sound event starts earliest in the given audio?,Beeping,Vehicle engine,Human Speech,Squeaking,C
+171130.mp3,Which sound event starts earliest in the given audio?,Piano Playing,Clapping,Water Dripping,Distant Sounds,D
+533196.mp3,Which sound event starts earliest in the given audio?,Thunder,Screaming,Horse Neigh,Thud,A
+122065.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Atmospheric Sounds,Traffic Noise,Whirring,B
+338397.mp3,Which sound event starts earliest in the given audio?,Siren,Lawn Mower,Vehicle engine,Sheep_Goat Bleat,C
+155447.mp3,Which sound event starts earliest in the given audio?,Human Speech,Insect Buzzing,Monotone Sounds,Vehicle Horn Honk,D
+634721.mp3,Which sound event starts earliest in the given audio?,Traffic Noise,Distant Sounds,Waves,Coughing,A
+753071.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,Train sound,Hand Sander,Humming,B
+723573.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Thud,Thunder,Clapping,C
+422876.mp3,Which sound event starts earliest in the given audio?,Pig Oink,Ship_Boat sound,Crying,Wood sounds,D
+660957.mp3,Which sound event starts earliest in the given audio?,Human Speech,Lawn Mower,Vehicle engine,Saxophone,A
+510771.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Metallic Sounds,Shouting,Ship_Boat sound,B
+729387.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Hiccup,Atmospheric Sounds,Ticking,C
+725322.mp3,Which sound event starts earliest in the given audio?,Airplane engine,Raining,Footsteps,Bird Chirp,D
+577312.mp3,Which sound event starts earliest in the given audio?,Siren,Violin Playing,Coughing,Cow Moo,A
+453245.mp3,Which sound event starts earliest in the given audio?,Elevator,Chainsaw,Atmospheric Sounds,Alarm sound,B
+411914.mp3,Which sound event starts earliest in the given audio?,Car door sound,Electronic Game,Washing Machine,Fire Alarm,C
+417751.mp3,Which sound event starts earliest in the given audio?,Waves,Alarm sound,Distant Sounds,Screaming,D
+528137.mp3,Which sound event starts earliest in the given audio?,Thunder,Electronic Game,Car Honking,Fire Alarm,A
+752126.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Electronic Beep,Piano Playing,Security Alarm,B
+46733.mp3,Which sound event starts earliest in the given audio?,Beeping,Monotone Sounds,Vehicle engine,Waves,C
+788147.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Monotone Sounds,Grinding,Raining,D
+752358.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,ATM Machine,Human Speech,Wind,A
+536928.mp3,Which sound event starts earliest in the given audio?,Shouting,Helicopter sound,Cowbell Ringing,Siren,B
+588591.mp3,Which sound event starts earliest in the given audio?,Electronic Beep,Crying,Bird Chirp,Vehicle Horn Honk,C
+490932.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Laughter,Phone Dialing,Bird Chirp,D
+406868.mp3,Which sound event starts earliest in the given audio?,Traffic Noise,Saxophone,Laughter,Vehicle Horn Honk,A
+348153.mp3,Which sound event starts earliest in the given audio?,Sheep_Goat Bleat,Raining,Atmospheric Sounds,Explosion,B
+156061.mp3,Which sound event starts earliest in the given audio?,White noise,Guitar Playing,Human Speech,Distant Sounds,C
+422924.mp3,Which sound event starts earliest in the given audio?,Electronic Beep,Trumpet,Dog Barking,Announcement,D
+655090.mp3,Which sound event starts earliest in the given audio?,Cat Meowing,Violin Playing,Waves,Fire Alarm,A
+393840.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Humming,Cow Moo,Electronic Beep,B
+542789.mp3,Which sound event starts earliest in the given audio?,Rooster Crow,Security Alarm,Hammer,Trumpet,C
+477336.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Sneezing,Phone Ringing,Raining,D
+240933.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Power Drill,Waves,Atmospheric Sounds,A
+162530.mp3,Which sound event starts earliest in the given audio?,Waves,Door sounds,Car door sound,Siren,B
+640980.mp3,Which sound event starts earliest in the given audio?,Wind,Car driving by,Singing,Cow Moo,C
+100774.mp3,Which sound event starts earliest in the given audio?,Explosion,Cheering,Dog Barking,Helicopter sound,D
+734940.mp3,Which sound event starts earliest in the given audio?,Screaming,Atmospheric Sounds,Vehicle Horn Honk,Drums,A
+608208.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Traffic Noise,Alarm sound,Human Speech,B
+161878.mp3,Which sound event starts earliest in the given audio?,Violin Playing,Monkey sounds,Machine sounds,Truck driving by,C
+676407.mp3,Which sound event starts earliest in the given audio?,Rustling,Doorbell,Elevator,Dog Barking,D
+194242.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Saxophone,Wind,Motorcycle driving by,A
+410290.mp3,Which sound event starts earliest in the given audio?,Stream_River,Footsteps,Rooster Crow,Fan,B
+149293.mp3,Which sound event starts earliest in the given audio?,Alarm sound,Car driving by,Chainsaw,Atmospheric Sounds,C
+69443.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Alarm sound,Stream_River,Vehicle braking,D
+480658.mp3,Which sound event starts earliest in the given audio?,Shouting,Squeaking,Fan,Explosion,A
+689357.mp3,Which sound event starts earliest in the given audio?,Singing,Traffic Noise,Dog Barking,Atmospheric Sounds,B
+723527.mp3,Which sound event starts earliest in the given audio?,Vehicle braking,Piano Playing,Vehicle Horn Honk,Phone Ringing,C
+772710.mp3,Which sound event starts earliest in the given audio?,Insect Buzzing,Humming,Microwave,Raining,D
+613869.mp3,Which sound event starts earliest in the given audio?,Sheep_Goat Bleat,Wind,Monotone Sounds,Footsteps,A
+208995.mp3,Which sound event starts earliest in the given audio?,Traffic Noise,Cow Moo,Electronic Game,Raining,B
+579871.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Explosion,Distant Sounds,Machine sounds,C
+779876.mp3,Which sound event starts earliest in the given audio?,Fire burning,Bird Chirp,Shouting,Atmospheric Sounds,D
+161890.mp3,Which sound event starts earliest in the given audio?,Machine sounds,Card Reader,Sheep_Goat Bleat,Vehicle engine,A
+582966.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Traffic Noise,Siren,Hand Sander,B
+483440.mp3,Which sound event starts earliest in the given audio?,Breathing,Bell Ringing,Water Dripping,Train sound,C
+455340.mp3,Which sound event starts earliest in the given audio?,Vehicle engine,Distant Sounds,Shouting,Power Drill,D
+120776.mp3,Which sound event starts earliest in the given audio?,Grinding,Train sound,Singing,Electronic Game,A
+550181.mp3,Which sound event starts earliest in the given audio?,Wind,Jackhammer,Helicopter sound,Distant Sounds,B
+205151.mp3,Which sound event starts earliest in the given audio?,Doorbell,Monkey sounds,Laughter,Electronic Beep,C
+640787.mp3,Which sound event starts earliest in the given audio?,Human Speech,Saxophone,Security Alarm,Water Dripping,D
+503551.mp3,Which sound event starts earliest in the given audio?,Car driving by,Bell Ringing,Bird Chirp,Distant Sounds,A
+361590.mp3,Which sound event starts earliest in the given audio?,Trumpet,Fan,Horse Neigh,Clapping,B
+565300.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Atmospheric Sounds,Wind,Motorcycle driving by,C
+81801.mp3,Which sound event starts earliest in the given audio?,Hissing,Trumpet,Electronic Beep,Fire burning,D
+316871.mp3,Which sound event starts earliest in the given audio?,Drums,Phone Dialing,Keyboard sounds,Monotone Sounds,A
+540281.mp3,Which sound event starts earliest in the given audio?,Card Reader,Thud,Water Dripping,Pig Oink,B
+785534.mp3,Which sound event starts earliest in the given audio?,Beeping,Atmospheric Sounds,Human Speech,Door sounds,C
+553936.mp3,Which sound event starts earliest in the given audio?,Cowbell Ringing,Airplane engine,Monotone Sounds,Raining,D
+458617.mp3,Which sound event starts earliest in the given audio?,Breathing,Saxophone,Traffic Noise,Raining,A
+163068.mp3,Which sound event starts earliest in the given audio?,Car driving by,Breathing,Alarm sound,Atmospheric Sounds,B
+611104.mp3,Which sound event starts earliest in the given audio?,Machine sounds,Phone Ringing,Monotone Sounds,Bird Chirp,C
+161879.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Whistle,Bird Chirp,Truck driving by,D
+752052.mp3,Which sound event starts earliest in the given audio?,Clapping,Cat Meowing,ATM Machine,Truck driving by,A
+371940.mp3,Which sound event starts earliest in the given audio?,Car Honking,Waves,Monotone Sounds,Screaming,B
+711219.mp3,Which sound event starts earliest in the given audio?,Thumping,Fan,Dog Barking,Distant Sounds,C
+393487.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,Car driving by,Clock Ticking,Machine sounds,D
+91446.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Fan,Water Dripping,White noise,A
+728346.mp3,Which sound event starts earliest in the given audio?,Cow Moo,Human Speech,Distant Sounds,Metallic Sounds,B
+389497.mp3,Which sound event starts earliest in the given audio?,Stream_River,Lawn Mower,Bird Chirp,Singing,C
+741582.mp3,Which sound event starts earliest in the given audio?,Alarm sound,Vehicle engine,Insect Buzzing,Cranking,D
+366403.mp3,Which sound event starts earliest in the given audio?,Metallic Sounds,Bell Ringing,Doorbell,Wood sounds,A
+168078.mp3,Which sound event starts earliest in the given audio?,Grinding,Airplane engine,Human Speech,Atmospheric Sounds,B
+740816.mp3,Which sound event starts earliest in the given audio?,Electronic Beep,Airplane sound,Machine sounds,Bird Chirp,C
+161290.mp3,Which sound event starts earliest in the given audio?,Car door sound,Bird Chirp,Violin Playing,Distant Sounds,D
+582754.mp3,Which sound event starts earliest in the given audio?,Vehicle Horn Honk,Insect Buzzing,Thud,Water Dripping,A
+451479.mp3,Which sound event starts earliest in the given audio?,Lawn Mower,Car Honking,Rooster Crow,Waves,B
+467974.mp3,Which sound event starts earliest in the given audio?,Water Dripping,Squeaking,Train sound,Crying,C
+129649.mp3,Which sound event starts earliest in the given audio?,Stream_River,Machine sounds,Whistle,Drums,D
+54851.mp3,Which sound event starts earliest in the given audio?,Vehicle engine,Fire burning,Distant Sounds,Cheering,A
+725216.mp3,Which sound event starts earliest in the given audio?,Piano Playing,Bird Chirp,Footsteps,Raining,B
+347873.mp3,Which sound event starts earliest in the given audio?,Distant Sounds,Singing,Raining,Thud,C
+50814.mp3,Which sound event starts earliest in the given audio?,Hissing,Vehicle engine,Atmospheric Sounds,Human Speech,D
+706449.mp3,Which sound event starts earliest in the given audio?,Cat Meowing,Fire Alarm,Human Speech,Monotone Sounds,A
+394708.mp3,Which sound event starts earliest in the given audio?,Train sound,Bird Chirp,Distant Sounds,Clicking,B
+638702.mp3,Which sound event starts earliest in the given audio?,Stream_River,Microwave,Rooster Crow,Beeping,C
+52642.mp3,Which sound event starts earliest in the given audio?,Thunder,Explosion,Camera Shutter,Lawn Mower,D
+667268.mp3,Which sound event starts earliest in the given audio?,Traffic Noise,Monotone Sounds,Water Dripping,Bird Chirp,A
+753443.mp3,Which sound event starts earliest in the given audio?,Insect Buzzing,Cowbell Ringing,Fire burning,Clapping,B
+582428.mp3,Which sound event starts earliest in the given audio?,Stream_River,Airplane engine,Shouting,Siren,C
+473708.mp3,Which sound event starts earliest in the given audio?,Violin Playing,Coughing,Car driving by,Machine sounds,D
+540465.mp3,Which sound event starts earliest in the given audio?,Shouting,Wind,Pig Oink,Saxophone,A
+274329.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,Doorbell,Sneezing,Insect Buzzing,B
+233583.mp3,Which sound event starts earliest in the given audio?,Monotone Sounds,Trumpet,Whistle,Rattling,C
+623604.mp3,Which sound event starts earliest in the given audio?,Metallic Sounds,Atmospheric Sounds,Bicycle,Wind,D
+203854.mp3,Which sound event starts earliest in the given audio?,Wind,Guitar Playing,Vehicle Horn Honk,Sheep_Goat Bleat,A
+724067.mp3,Which sound event starts earliest in the given audio?,Footsteps,Squeaking,Raining,Insect Buzzing,B
+567570.mp3,Which sound event starts earliest in the given audio?,Insect Buzzing,Distant Sounds,Snoring,Piano Playing,C
+418566.mp3,Which sound event starts earliest in the given audio?,Bell Ringing,Fire burning,Hand Sander,Clapping,D
+731255.mp3,Which sound event starts earliest in the given audio?,Bird Chirp,Crying,Microwave,Traffic Noise,A
+264372.mp3,Which sound event starts earliest in the given audio?,Electronic Game,Bird Chirp,Car Honking,Water Dripping,B
+127990.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Fan,Dog Barking,Raining,C
+17812.mp3,Which sound event starts earliest in the given audio?,Elevator,Violin Playing,Power Drill,Human Speech,D
+245327.mp3,Which sound event starts earliest in the given audio?,Human Speech,Elevator,Drums,Helicopter sound,A
+501242.mp3,Which sound event starts earliest in the given audio?,Camera Shutter,Thunder,Trumpet,Alarm sound,B
+698899.mp3,Which sound event starts earliest in the given audio?,Wood sounds,Hand Sander,Snoring,Bird Chirp,C
+236997.mp3,Which sound event starts earliest in the given audio?,Atmospheric Sounds,Cowbell Ringing,Vehicle braking,Raining,D

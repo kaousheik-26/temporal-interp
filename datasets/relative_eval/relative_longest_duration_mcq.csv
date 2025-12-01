@@ -1,0 +1,631 @@
+filename,question,A,B,C,D,correct_label
+660407.mp3,Which sound event has the longest duration in the given audio?,Laughter,Monotone Sounds,Squeaking,Stream_River,A
+412818.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Machine sounds,Crying,Motorcycle driving by,B
+725216.mp3,Which sound event has the longest duration in the given audio?,Footsteps,Phone Ringing,Bird Chirp,Piano Playing,C
+387024.mp3,Which sound event has the longest duration in the given audio?,Footsteps,Bird Chirp,Security Alarm,Singing,D
+723874.mp3,Which sound event has the longest duration in the given audio?,Snoring,Dog Barking,Cowbell Ringing,Grinding,A
+672478.mp3,Which sound event has the longest duration in the given audio?,Drums,Laughter,Monotone Sounds,Ship_Boat sound,B
+772710.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Singing,Raining,Camera Shutter,C
+177548.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Dog Barking,Electronic Game,Rattling,D
+704448.mp3,Which sound event has the longest duration in the given audio?,Laughter,Fan,Ringing,Beeping,A
+269258.mp3,Which sound event has the longest duration in the given audio?,Hissing,Dog Barking,Crying,Atmospheric Sounds,B
+435791.mp3,Which sound event has the longest duration in the given audio?,Metallic Sounds,Atmospheric Sounds,Raining,Vehicle braking,C
+141529.mp3,Which sound event has the longest duration in the given audio?,Raining,Sleeping Sounds,Distant Sounds,Alarm sound,D
+161878.mp3,Which sound event has the longest duration in the given audio?,Truck driving by,Cowbell Ringing,Atmospheric Sounds,Machine sounds,A
+191646.mp3,Which sound event has the longest duration in the given audio?,Alarm sound,Laughter,Distant Sounds,White noise,B
+575195.mp3,Which sound event has the longest duration in the given audio?,Bell Ringing,Machine sounds,Distant Sounds,Wind,C
+177546.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Wind,Cat Meowing,Atmospheric Sounds,D
+104420.mp3,Which sound event has the longest duration in the given audio?,Traffic Noise,Sheep_Goat Bleat,Human Speech,Hissing,A
+645341.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Traffic Noise,Siren,Wind,B
+352225.mp3,Which sound event has the longest duration in the given audio?,Hammer,Wood sounds,Humming,Atmospheric Sounds,C
+783660.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Monkey sounds,Fire burning,Thud,D
+253992.mp3,Which sound event has the longest duration in the given audio?,Elevator,Vehicle braking,Footsteps,Distant Sounds,A
+27406.mp3,Which sound event has the longest duration in the given audio?,Phone Ringing,Rooster Crow,Ringing,Car driving by,B
+159747.mp3,Which sound event has the longest duration in the given audio?,Car driving by,Thunder,Siren,Squeaking,C
+86193.mp3,Which sound event has the longest duration in the given audio?,Sheep_Goat Bleat,Water Dripping,Electronic Game,Hissing,D
+643411.mp3,Which sound event has the longest duration in the given audio?,Wind,Bell Ringing,Coughing,Bird Chirp,A
+23098.mp3,Which sound event has the longest duration in the given audio?,Car Honking,Human Speech,Pig Oink,Monotone Sounds,B
+326313.mp3,Which sound event has the longest duration in the given audio?,Cow Moo,Alarm sound,Laughter,Distant Sounds,C
+755884.mp3,Which sound event has the longest duration in the given audio?,Water Dripping,Distant Sounds,Bird Chirp,White noise,D
+84744.mp3,Which sound event has the longest duration in the given audio?,Train sound,Clapping,Distant Sounds,Bell Ringing,A
+563894.mp3,Which sound event has the longest duration in the given audio?,Whirring,Raining,Wolf Howl,Piano Playing,B
+330668.mp3,Which sound event has the longest duration in the given audio?,Raining,Clicking,Vehicle engine,Distant Sounds,C
+431644.mp3,Which sound event has the longest duration in the given audio?,Fire Alarm,Fire burning,Machine sounds,Crying,D
+423452.mp3,Which sound event has the longest duration in the given audio?,Clapping,Metallic Sounds,ATM Machine,Singing,A
+454025.mp3,Which sound event has the longest duration in the given audio?,Vehicle braking,Metallic Sounds,Vehicle Horn Honk,Monkey sounds,B
+254369.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Vehicle braking,Siren,Rooster Crow,C
+501816.mp3,Which sound event has the longest duration in the given audio?,Screaming,Metallic Sounds,Elevator,Monotone Sounds,D
+620561.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Doorbell,Camera Shutter,Bell Ringing,A
+785669.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Bird Chirp,Helicopter sound,Wind,B
+479839.mp3,Which sound event has the longest duration in the given audio?,Wind,Distant Sounds,Crying,Washing Machine,C
+480639.mp3,Which sound event has the longest duration in the given audio?,Monkey sounds,Trumpet,Whistle,Thud,D
+517484.mp3,Which sound event has the longest duration in the given audio?,Clapping,Waves,Rattling,Car driving by,A
+148854.mp3,Which sound event has the longest duration in the given audio?,Trumpet,Motorcycle driving by,Rustling,Bird Chirp,B
+18650.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Atmospheric Sounds,White noise,Vehicle Horn Honk,C
+507285.mp3,Which sound event has the longest duration in the given audio?,Clock Ticking,Human Speech,Distant Sounds,Stream_River,D
+577845.mp3,Which sound event has the longest duration in the given audio?,Raining,Monotone Sounds,Cowbell Ringing,Siren,A
+380037.mp3,Which sound event has the longest duration in the given audio?,Cow Moo,Stream_River,Hand Sander,Footsteps,B
+640787.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Bell Ringing,Water Dripping,Insect Buzzing,C
+741582.mp3,Which sound event has the longest duration in the given audio?,Cranking,Breathing,Rooster Crow,Vehicle engine,D
+17812.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Distant Sounds,Raining,Elevator,A
+513874.mp3,Which sound event has the longest duration in the given audio?,Drums,Clapping,Train sound,Waves,B
+338684.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Breathing,Traffic Noise,Bird Chirp,C
+453264.mp3,Which sound event has the longest duration in the given audio?,Traffic Noise,Electronic Game,Human Speech,Atmospheric Sounds,D
+113329.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Rustling,Phone Dialing,Explosion,A
+429981.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Siren,Dog Barking,Human Speech,B
+638702.mp3,Which sound event has the longest duration in the given audio?,Hiccup,Drums,Rooster Crow,Ringing,C
+336777.mp3,Which sound event has the longest duration in the given audio?,Saxophone,Thud,Fire Alarm,Atmospheric Sounds,D
+262168.mp3,Which sound event has the longest duration in the given audio?,Crying,Atmospheric Sounds,Cowbell Ringing,Stream_River,A
+623051.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Waves,Airplane sound,Drums,B
+383483.mp3,Which sound event has the longest duration in the given audio?,Thumping,Human Speech,Dog Barking,Trumpet,C
+140845.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Drums,Distant Sounds,Machine sounds,D
+752326.mp3,Which sound event has the longest duration in the given audio?,Machine sounds,Monotone Sounds,Crying,Doorbell,A
+657763.mp3,Which sound event has the longest duration in the given audio?,Fire Alarm,Vehicle engine,Power Saw,Wind,B
+50897.mp3,Which sound event has the longest duration in the given audio?,Clicking,Drums,Vehicle engine,Cow Moo,C
+149977.mp3,Which sound event has the longest duration in the given audio?,Rooster Crow,Electronic Beep,Wood sounds,Machine sounds,D
+753071.mp3,Which sound event has the longest duration in the given audio?,Train sound,Squeaking,Bell Ringing,Water Dripping,A
+433968.mp3,Which sound event has the longest duration in the given audio?,Rustling,Wind,Saxophone,Bird Chirp,B
+161879.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Siren,Truck driving by,Phone Dialing,C
+565236.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Atmospheric Sounds,Siren,Wind,D
+711219.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Distant Sounds,Car Honking,Doorbell,A
+556027.mp3,Which sound event has the longest duration in the given audio?,Explosion,Shouting,Distant Sounds,Horse Neigh,B
+324281.mp3,Which sound event has the longest duration in the given audio?,Squeaking,Clock Ticking,Singing,Alarm sound,C
+129649.mp3,Which sound event has the longest duration in the given audio?,Monkey sounds,Machine sounds,Clock Ticking,Drums,D
+180851.mp3,Which sound event has the longest duration in the given audio?,Electronic Beep,Announcement,Cat Meowing,Atmospheric Sounds,A
+527750.mp3,Which sound event has the longest duration in the given audio?,Violin Playing,Car driving by,Doorbell,Door sounds,B
+393487.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Trumpet,Machine sounds,Rooster Crow,C
+760516.mp3,Which sound event has the longest duration in the given audio?,Metallic Sounds,Rooster Crow,Doorbell,Wind,D
+650529.mp3,Which sound event has the longest duration in the given audio?,Sheep_Goat Bleat,Monotone Sounds,Raining,Human Speech,A
+170984.mp3,Which sound event has the longest duration in the given audio?,Electronic Game,Squeaking,Car door sound,Wind,B
+52642.mp3,Which sound event has the longest duration in the given audio?,Camera Shutter,Monkey sounds,Lawn Mower,Airplane engine,C
+779959.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Announcement,Bird Chirp,Wind,D
+451401.mp3,Which sound event has the longest duration in the given audio?,Machine sounds,Cow Moo,Wind,Airplane sound,A
+163068.mp3,Which sound event has the longest duration in the given audio?,Wind,Alarm sound,Breathing,Squeaking,B
+565300.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Bird Chirp,Wind,Fan,C
+573666.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Trumpet,Airplane engine,White noise,D
+380440.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Stream_River,Thumping,Laughter,A
+761056.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Atmospheric Sounds,Thunder,Airplane sound,B
+331520.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Violin Playing,Traffic Noise,Hissing,C
+416176.mp3,Which sound event has the longest duration in the given audio?,Raining,Motorcycle driving by,Rattling,Laughter,D
+442485.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Wood sounds,Dog Barking,Saxophone,A
+424878.mp3,Which sound event has the longest duration in the given audio?,Truck driving by,Trumpet,Footsteps,Ringing,B
+454792.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Wood sounds,Human Speech,Security Alarm,C
+623604.mp3,Which sound event has the longest duration in the given audio?,Fire Alarm,Wind,Metallic Sounds,Atmospheric Sounds,D
+140596.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Drums,Human Speech,Door sounds,A
+361590.mp3,Which sound event has the longest duration in the given audio?,Doorbell,Fan,Trumpet,Clapping,B
+206029.mp3,Which sound event has the longest duration in the given audio?,Car Honking,Breathing,Bird Chirp,Vehicle Horn Honk,C
+469243.mp3,Which sound event has the longest duration in the given audio?,Water Dripping,Vehicle engine,Vehicle Horn Honk,Machine sounds,D
+402960.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Atmospheric Sounds,Saxophone,Rooster Crow,A
+450655.mp3,Which sound event has the longest duration in the given audio?,Phone Dialing,Distant Sounds,Machine sounds,Singing,B
+464791.mp3,Which sound event has the longest duration in the given audio?,Horse Neigh,Traffic Noise,Human Speech,Thud,C
+442382.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Bicycle,Elevator,Rattling,D
+377024.mp3,Which sound event has the longest duration in the given audio?,Clapping,Security Alarm,Clicking,Electronic Game,A
+587753.mp3,Which sound event has the longest duration in the given audio?,Chainsaw,Raining,Vehicle engine,Bird Chirp,B
+620489.mp3,Which sound event has the longest duration in the given audio?,Helicopter sound,Distant Sounds,Raining,Fire Alarm,C
+756872.mp3,Which sound event has the longest duration in the given audio?,ATM Machine,Security Alarm,Drums,Monotone Sounds,D
+466844.mp3,Which sound event has the longest duration in the given audio?,Laughter,Card Reader,Fire burning,Fire Alarm,A
+180044.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Breathing,Electronic Game,Water Dripping,B
+402550.mp3,Which sound event has the longest duration in the given audio?,Alarm sound,Car driving by,Raining,Pig Oink,C
+22809.mp3,Which sound event has the longest duration in the given audio?,Stream_River,Breathing,Hissing,Vehicle engine,D
+417751.mp3,Which sound event has the longest duration in the given audio?,Screaming,Bus sound,Cranking,Distant Sounds,A
+582966.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Traffic Noise,Siren,Fire burning,B
+168306.mp3,Which sound event has the longest duration in the given audio?,Beeping,Guitar Playing,Footsteps,Door sounds,C
+723256.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Clicking,Fire Alarm,Humming,D
+172648.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Explosion,Distant Sounds,Shouting,A
+73519.mp3,Which sound event has the longest duration in the given audio?,Explosion,Chainsaw,Breathing,Atmospheric Sounds,B
+451484.mp3,Which sound event has the longest duration in the given audio?,Metallic Sounds,Distant Sounds,Traffic Noise,Vehicle Horn Honk,C
+240933.mp3,Which sound event has the longest duration in the given audio?,Violin Playing,Waves,Bird Chirp,Atmospheric Sounds,D
+754046.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Train sound,Hiccup,Chainsaw,A
+455340.mp3,Which sound event has the longest duration in the given audio?,Drums,Power Drill,Electronic Beep,Monotone Sounds,B
+542789.mp3,Which sound event has the longest duration in the given audio?,Fan,Water Dripping,Hammer,Atmospheric Sounds,C
+386983.mp3,Which sound event has the longest duration in the given audio?,Hand Sander,Sneezing,Bird Chirp,Water Dripping,D
+267146.mp3,Which sound event has the longest duration in the given audio?,Sheep_Goat Bleat,Announcement,Distant Sounds,Thud,A
+552042.mp3,Which sound event has the longest duration in the given audio?,Phone Ringing,White noise,Guitar Playing,Vehicle Horn Honk,B
+483908.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Clicking,Raining,Rooster Crow,C
+394708.mp3,Which sound event has the longest duration in the given audio?,Clock Ticking,Atmospheric Sounds,Thud,Bird Chirp,D
+627880.mp3,Which sound event has the longest duration in the given audio?,Wind,Distant Sounds,Bird Chirp,Sneezing,A
+680577.mp3,Which sound event has the longest duration in the given audio?,Insect Buzzing,Vehicle Horn Honk,Traffic Noise,Snoring,B
+503551.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Bird Chirp,Car driving by,Piano Playing,C
+106836.mp3,Which sound event has the longest duration in the given audio?,Humming,Raining,Dog Barking,Vehicle engine,D
+21310.mp3,Which sound event has the longest duration in the given audio?,Hammer,Singing,Monotone Sounds,Sneezing,A
+234934.mp3,Which sound event has the longest duration in the given audio?,Water Dripping,Monotone Sounds,Traffic Noise,Sniffing,B
+705232.mp3,Which sound event has the longest duration in the given audio?,Guitar Playing,Wood sounds,Monotone Sounds,Ship_Boat sound,C
+347964.mp3,Which sound event has the longest duration in the given audio?,Grinding,Drums,Doorbell,Traffic Noise,D
+407157.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Card Reader,Pig Oink,Hammer,A
+689357.mp3,Which sound event has the longest duration in the given audio?,Electronic Beep,Traffic Noise,Atmospheric Sounds,Dog Barking,B
+59196.mp3,Which sound event has the longest duration in the given audio?,Camera Shutter,Waves,Human Speech,Fire Alarm,C
+508875.mp3,Which sound event has the longest duration in the given audio?,Trumpet,Bird Chirp,Distant Sounds,Machine sounds,D
+581528.mp3,Which sound event has the longest duration in the given audio?,White noise,Clock Ticking,Laughter,Atmospheric Sounds,A
+468451.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Footsteps,Monotone Sounds,Vehicle Horn Honk,B
+73267.mp3,Which sound event has the longest duration in the given audio?,ATM Machine,Violin Playing,Thunder,Bird Chirp,C
+556026.mp3,Which sound event has the longest duration in the given audio?,Shouting,Car driving by,Fire burning,Distant Sounds,D
+462262.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Card Reader,Grinding,Horse Neigh,A
+650417.mp3,Which sound event has the longest duration in the given audio?,Wood sounds,Cat Meowing,Airplane engine,Ringing,B
+151807.mp3,Which sound event has the longest duration in the given audio?,Beeping,Human Speech,Monotone Sounds,Train sound,C
+172784.mp3,Which sound event has the longest duration in the given audio?,Electronic Game,Jackhammer,Saxophone,Beeping,D
+720186.mp3,Which sound event has the longest duration in the given audio?,Airplane engine,Camera Shutter,Atmospheric Sounds,Metallic Sounds,A
+169231.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Water Dripping,Distant Sounds,Grinding,B
+118163.mp3,Which sound event has the longest duration in the given audio?,Electronic Beep,Atmospheric Sounds,Footsteps,Car driving by,C
+762526.mp3,Which sound event has the longest duration in the given audio?,Beeping,Fire burning,Monotone Sounds,Traffic Noise,D
+755421.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Wind,White noise,Human Speech,A
+580796.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Stream_River,Airplane sound,Coughing,B
+559094.mp3,Which sound event has the longest duration in the given audio?,Lawn Mower,Wind,Traffic Noise,Fire Alarm,C
+517392.mp3,Which sound event has the longest duration in the given audio?,Saxophone,Car driving by,Shouting,Wind,D
+181424.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Camera Shutter,Human Speech,Car driving by,A
+453584.mp3,Which sound event has the longest duration in the given audio?,Water Dripping,Distant Sounds,Traffic Noise,Guitar Playing,B
+531790.mp3,Which sound event has the longest duration in the given audio?,Waves,Squeaking,Elevator,Vehicle Horn Honk,C
+178473.mp3,Which sound event has the longest duration in the given audio?,Cheering,Wolf Howl,Siren,Bus sound,D
+127990.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Electronic Beep,Wood sounds,Explosion,A
+752126.mp3,Which sound event has the longest duration in the given audio?,Security Alarm,Electronic Beep,Monotone Sounds,Piano Playing,B
+476735.mp3,Which sound event has the longest duration in the given audio?,Phone Dialing,Thunder,Atmospheric Sounds,Power Saw,C
+753443.mp3,Which sound event has the longest duration in the given audio?,Clapping,Lawn Mower,Wood sounds,Cowbell Ringing,D
+369799.mp3,Which sound event has the longest duration in the given audio?,Crying,Atmospheric Sounds,ATM Machine,Wood sounds,A
+646275.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Car driving by,Thunder,Vacuum Cleaner,B
+429179.mp3,Which sound event has the longest duration in the given audio?,Power Drill,Sleeping Sounds,Raining,Helicopter sound,C
+263104.mp3,Which sound event has the longest duration in the given audio?,Sneezing,Car door sound,Clicking,Bird Chirp,D
+406064.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Truck driving by,Hissing,Clock Ticking,A
+472611.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Vehicle engine,Phone Ringing,Laughter,B
+341491.mp3,Which sound event has the longest duration in the given audio?,Breathing,Atmospheric Sounds,Waves,Hand Sander,C
+113320.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Laughter,Atmospheric Sounds,Traffic Noise,D
+376926.mp3,Which sound event has the longest duration in the given audio?,Explosion,Cheering,Clock Ticking,Car door sound,A
+683018.mp3,Which sound event has the longest duration in the given audio?,Insect Buzzing,Power Drill,Breathing,Thunder,B
+498187.mp3,Which sound event has the longest duration in the given audio?,Footsteps,Car driving by,Siren,Raining,C
+785534.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Bell Ringing,Beeping,Human Speech,D
+438354.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Atmospheric Sounds,Wind,Car door sound,A
+182534.mp3,Which sound event has the longest duration in the given audio?,Car door sound,Drums,Siren,Whistle,B
+344938.mp3,Which sound event has the longest duration in the given audio?,Guitar Playing,Bird Chirp,Vehicle engine,Breathing,C
+510910.mp3,Which sound event has the longest duration in the given audio?,Wind,Button Press,Motorcycle driving by,Bird Chirp,D
+611369.mp3,Which sound event has the longest duration in the given audio?,Humming,Distant Sounds,Bird Chirp,Wind,A
+691547.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Car driving by,Phone Ringing,Atmospheric Sounds,B
+667268.mp3,Which sound event has the longest duration in the given audio?,Violin Playing,Bird Chirp,Traffic Noise,Human Speech,C
+418153.mp3,Which sound event has the longest duration in the given audio?,Security Alarm,Screaming,Violin Playing,Cat Meowing,D
+341521.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Screaming,Elevator,Alarm sound,A
+394719.mp3,Which sound event has the longest duration in the given audio?,Car door sound,Raining,Insect Buzzing,Announcement,B
+316066.mp3,Which sound event has the longest duration in the given audio?,Insect Buzzing,Atmospheric Sounds,Hissing,Piano Playing,C
+173981.mp3,Which sound event has the longest duration in the given audio?,Card Reader,Trumpet,Vehicle Horn Honk,Distant Sounds,D
+192370.mp3,Which sound event has the longest duration in the given audio?,Crying,Distant Sounds,Cowbell Ringing,Alarm sound,A
+661639.mp3,Which sound event has the longest duration in the given audio?,Footsteps,Door sounds,Phone Dialing,Wood sounds,B
+170298.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Vehicle engine,Dog Barking,Power Drill,C
+120776.mp3,Which sound event has the longest duration in the given audio?,Water Dripping,Grinding,Violin Playing,Train sound,D
+371454.mp3,Which sound event has the longest duration in the given audio?,Lawn Mower,Monotone Sounds,Shouting,Doorbell,A
+744298.mp3,Which sound event has the longest duration in the given audio?,Washing Machine,Bird Chirp,Distant Sounds,Bus sound,B
+18761.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Bell Ringing,Doorbell,Camera Shutter,C
+700589.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Human Speech,Wood sounds,Traffic Noise,D
+240100.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Thud,Water Dripping,Alarm sound,A
+582428.mp3,Which sound event has the longest duration in the given audio?,White noise,Shouting,Phone Ringing,Horse Neigh,B
+616596.mp3,Which sound event has the longest duration in the given audio?,Motorcycle driving by,Waves,Atmospheric Sounds,Cowbell Ringing,C
+141778.mp3,Which sound event has the longest duration in the given audio?,Siren,Dog Barking,Crying,Traffic Noise,D
+100388.mp3,Which sound event has the longest duration in the given audio?,Stream_River,Bird Chirp,Beeping,Bicycle,A
+789155.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Raining,Fire Alarm,Dog Barking,B
+37928.mp3,Which sound event has the longest duration in the given audio?,Rooster Crow,Electronic Game,Vehicle Horn Honk,Wind,C
+546862.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Power Drill,Dog Barking,Waves,D
+746322.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Raining,Distant Sounds,Ticking,A
+697764.mp3,Which sound event has the longest duration in the given audio?,Wood sounds,Train sound,Atmospheric Sounds,Clock Ticking,B
+44534.mp3,Which sound event has the longest duration in the given audio?,Piano Playing,Distant Sounds,Traffic Noise,Dog Barking,C
+127654.mp3,Which sound event has the longest duration in the given audio?,Beeping,Thud,Announcement,Raining,D
+781059.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Human Speech,Phone Ringing,Alarm sound,A
+237327.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Distant Sounds,Cowbell Ringing,Pig Oink,B
+18786.mp3,Which sound event has the longest duration in the given audio?,Trumpet,Distant Sounds,Announcement,Elevator,C
+346254.mp3,Which sound event has the longest duration in the given audio?,Drums,Human Speech,Water Dripping,Bird Chirp,D
+418566.mp3,Which sound event has the longest duration in the given audio?,Bell Ringing,Camera Shutter,Clapping,Hand Sander,A
+429933.mp3,Which sound event has the longest duration in the given audio?,Machine sounds,Elevator,Screaming,Distant Sounds,B
+126128.mp3,Which sound event has the longest duration in the given audio?,Beeping,Bus sound,Metallic Sounds,Electronic Beep,C
+503017.mp3,Which sound event has the longest duration in the given audio?,Car door sound,Rooster Crow,Distant Sounds,White noise,D
+516044.mp3,Which sound event has the longest duration in the given audio?,Hammer,Hiccup,Wind,Traffic Noise,A
+268525.mp3,Which sound event has the longest duration in the given audio?,Beeping,Atmospheric Sounds,Crying,Microwave,B
+477336.mp3,Which sound event has the longest duration in the given audio?,Sneezing,Violin Playing,Raining,Metallic Sounds,C
+477920.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,ATM Machine,Monkey sounds,Car driving by,D
+756809.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Sleeping Sounds,ATM Machine,Wind,A
+556536.mp3,Which sound event has the longest duration in the given audio?,Explosion,Jackhammer,Monkey sounds,Sneezing,B
+752358.mp3,Which sound event has the longest duration in the given audio?,Squeaking,Wind,Bell Ringing,Human Speech,C
+609757.mp3,Which sound event has the longest duration in the given audio?,Fire Alarm,Horse Neigh,Trumpet,White noise,D
+537094.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Monotone Sounds,Elevator,Human Speech,A
+610266.mp3,Which sound event has the longest duration in the given audio?,Car Honking,Bell Ringing,Alarm sound,Footsteps,B
+331689.mp3,Which sound event has the longest duration in the given audio?,Singing,Distant Sounds,Cat Meowing,Breathing,C
+161290.mp3,Which sound event has the longest duration in the given audio?,Water Dripping,Cheering,Distant Sounds,Violin Playing,D
+608723.mp3,Which sound event has the longest duration in the given audio?,Washing Machine,Camera Shutter,Water Dripping,Snoring,A
+155292.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Vehicle engine,Button Press,Bird Chirp,B
+19279.mp3,Which sound event has the longest duration in the given audio?,Cat Meowing,Helicopter sound,Atmospheric Sounds,Whistle,C
+455736.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Thunder,Wolf Howl,Vehicle engine,D
+586556.mp3,Which sound event has the longest duration in the given audio?,Waves,Atmospheric Sounds,ATM Machine,Trumpet,A
+22510.mp3,Which sound event has the longest duration in the given audio?,Singing,Waves,Beeping,Announcement,B
+467974.mp3,Which sound event has the longest duration in the given audio?,Insect Buzzing,Train sound,Crying,Squeaking,C
+366403.mp3,Which sound event has the longest duration in the given audio?,Metallic Sounds,Bell Ringing,Electronic Beep,Doorbell,D
+99683.mp3,Which sound event has the longest duration in the given audio?,Car driving by,Waves,Distant Sounds,Ticking,A
+696455.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Grinding,Security Alarm,Airplane engine,B
+650522.mp3,Which sound event has the longest duration in the given audio?,Wind,Distant Sounds,Human Speech,Saxophone,C
+406790.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Shouting,Hissing,Traffic Noise,D
+745104.mp3,Which sound event has the longest duration in the given audio?,Wind,Piano Playing,Fire Alarm,Rooster Crow,A
+58130.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Stream_River,Cowbell Ringing,Coughing,B
+109373.mp3,Which sound event has the longest duration in the given audio?,Lawn Mower,Bird Chirp,Traffic Noise,Card Reader,C
+74517.mp3,Which sound event has the longest duration in the given audio?,Helicopter sound,Rustling,Sleeping Sounds,Alarm sound,D
+595843.mp3,Which sound event has the longest duration in the given audio?,Humming,Dog Barking,Machine sounds,Distant Sounds,A
+571217.mp3,Which sound event has the longest duration in the given audio?,Car driving by,Footsteps,Wood sounds,Dog Barking,B
+406375.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Wood sounds,Traffic Noise,Human Speech,C
+77014.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Human Speech,Squeaking,Atmospheric Sounds,D
+686381.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Whistle,Siren,Saxophone,A
+17056.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Raining,Vehicle Horn Honk,Traffic Noise,B
+729387.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Ticking,Atmospheric Sounds,Vehicle Horn Honk,C
+612266.mp3,Which sound event has the longest duration in the given audio?,Singing,Traffic Noise,Alarm sound,Dog Barking,D
+653943.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Singing,Crying,Car driving by,A
+660296.mp3,Which sound event has the longest duration in the given audio?,Fire Alarm,Raining,Footsteps,Distant Sounds,B
+537203.mp3,Which sound event has the longest duration in the given audio?,Bicycle,Coughing,Wind,Metallic Sounds,C
+480658.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Piano Playing,Human Speech,Squeaking,D
+274329.mp3,Which sound event has the longest duration in the given audio?,Doorbell,Hiccup,Sewing Machine,Bell Ringing,A
+249955.mp3,Which sound event has the longest duration in the given audio?,Siren,Atmospheric Sounds,Announcement,Bird Chirp,B
+734940.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Clapping,Atmospheric Sounds,Drums,C
+714265.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Bell Ringing,Electronic Beep,Rustling,D
+348153.mp3,Which sound event has the longest duration in the given audio?,Raining,Bird Chirp,Sleeping Sounds,Atmospheric Sounds,A
+71673.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Shouting,Bell Ringing,Wind,B
+483440.mp3,Which sound event has the longest duration in the given audio?,Fan,Alarm sound,Water Dripping,Bell Ringing,C
+78787.mp3,Which sound event has the longest duration in the given audio?,Thunder,Singing,Distant Sounds,Car driving by,D
+74844.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Footsteps,Phone Ringing,Violin Playing,A
+672330.mp3,Which sound event has the longest duration in the given audio?,Rooster Crow,Wind,Distant Sounds,Piano Playing,B
+267200.mp3,Which sound event has the longest duration in the given audio?,Laughter,Vehicle Horn Honk,Singing,Vehicle engine,C
+480758.mp3,Which sound event has the longest duration in the given audio?,Clicking,Distant Sounds,Fire burning,Screaming,D
+126437.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Microwave,Alarm sound,Cowbell Ringing,A
+334151.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Raining,Security Alarm,Violin Playing,B
+693755.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Sheep_Goat Bleat,Water Dripping,Traffic Noise,C
+663845.mp3,Which sound event has the longest duration in the given audio?,Humming,Door sounds,Bell Ringing,Bird Chirp,D
+131197.mp3,Which sound event has the longest duration in the given audio?,Phone Ringing,Wind,Door sounds,Human Speech,A
+577312.mp3,Which sound event has the longest duration in the given audio?,Button Press,Siren,ATM Machine,Saxophone,B
+65743.mp3,Which sound event has the longest duration in the given audio?,Cowbell Ringing,Bird Chirp,Atmospheric Sounds,Hammer,C
+584017.mp3,Which sound event has the longest duration in the given audio?,Violin Playing,Alarm sound,Lawn Mower,Insect Buzzing,D
+490932.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Whirring,Bus sound,Distant Sounds,A
+414068.mp3,Which sound event has the longest duration in the given audio?,Cheering,White noise,Fan,Bell Ringing,B
+512965.mp3,Which sound event has the longest duration in the given audio?,Bell Ringing,Atmospheric Sounds,Raining,Shouting,C
+438400.mp3,Which sound event has the longest duration in the given audio?,Bicycle,Atmospheric Sounds,Hissing,Laughter,D
+316871.mp3,Which sound event has the longest duration in the given audio?,Drums,Microwave,White noise,Security Alarm,A
+250924.mp3,Which sound event has the longest duration in the given audio?,Guitar Playing,Train sound,Thud,Atmospheric Sounds,B
+724012.mp3,Which sound event has the longest duration in the given audio?,Insect Buzzing,Distant Sounds,Power Drill,Train sound,C
+234000.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Microwave,Bird Chirp,Wind,D
+706149.mp3,Which sound event has the longest duration in the given audio?,Insect Buzzing,Human Speech,Traffic Noise,Keyboard sounds,A
+334639.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Bus sound,Monotone Sounds,Rustling,B
+161883.mp3,Which sound event has the longest duration in the given audio?,Alarm sound,Singing,Ship_Boat sound,Electronic Beep,C
+516878.mp3,Which sound event has the longest duration in the given audio?,Car driving by,Monotone Sounds,Snoring,Raining,D
+395292.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Bell Ringing,Fire Alarm,Metallic Sounds,A
+451146.mp3,Which sound event has the longest duration in the given audio?,Sheep_Goat Bleat,Vehicle engine,Breathing,Vehicle Horn Honk,B
+124674.mp3,Which sound event has the longest duration in the given audio?,Card Reader,Dog Barking,Screaming,Fire burning,C
+501242.mp3,Which sound event has the longest duration in the given audio?,Elevator,Doorbell,Distant Sounds,Raining,D
+423450.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Drums,Vehicle Horn Honk,Human Speech,A
+505955.mp3,Which sound event has the longest duration in the given audio?,Guitar Playing,Hammer,Electronic Game,Vehicle engine,B
+765129.mp3,Which sound event has the longest duration in the given audio?,Beeping,Vehicle braking,Wind,Door sounds,C
+353243.mp3,Which sound event has the longest duration in the given audio?,Car driving by,Bird Chirp,Bell Ringing,Wind,D
+515042.mp3,Which sound event has the longest duration in the given audio?,Truck driving by,Grinding,Cat Meowing,Human Speech,A
+724469.mp3,Which sound event has the longest duration in the given audio?,Thud,Bird Chirp,Wood sounds,Footsteps,B
+46733.mp3,Which sound event has the longest duration in the given audio?,Waves,Sleeping Sounds,Vehicle engine,Atmospheric Sounds,C
+194242.mp3,Which sound event has the longest duration in the given audio?,Beeping,Saxophone,Human Speech,Traffic Noise,D
+341608.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Saxophone,Sleeping Sounds,Bird Chirp,A
+57047.mp3,Which sound event has the longest duration in the given audio?,Trumpet,Distant Sounds,Human Speech,Sewing Machine,B
+528137.mp3,Which sound event has the longest duration in the given audio?,Cat Meowing,Grinding,Thunder,Atmospheric Sounds,C
+52637.mp3,Which sound event has the longest duration in the given audio?,Door sounds,Clapping,ATM Machine,Doorbell,D
+510771.mp3,Which sound event has the longest duration in the given audio?,Metallic Sounds,Bird Chirp,Waves,Shouting,A
+106603.mp3,Which sound event has the longest duration in the given audio?,Violin Playing,Thumping,Humming,Vehicle braking,B
+155130.mp3,Which sound event has the longest duration in the given audio?,Drums,Laughter,Traffic Noise,Bird Chirp,C
+567731.mp3,Which sound event has the longest duration in the given audio?,Train sound,Thud,Insect Buzzing,Atmospheric Sounds,D
+590098.mp3,Which sound event has the longest duration in the given audio?,Elevator,Human Speech,Raining,Piano Playing,A
+581129.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Bird Chirp,Vehicle engine,Human Speech,B
+121299.mp3,Which sound event has the longest duration in the given audio?,Doorbell,Human Speech,Traffic Noise,Microwave,C
+156061.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Stream_River,Monkey sounds,Human Speech,D
+779876.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Shouting,Bird Chirp,Fire burning,A
+744776.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Siren,Human Speech,Helicopter sound,B
+104817.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Card Reader,Power Drill,Drums,C
+521895.mp3,Which sound event has the longest duration in the given audio?,Security Alarm,Camera Shutter,Distant Sounds,Sheep_Goat Bleat,D
+501819.mp3,Which sound event has the longest duration in the given audio?,Metallic Sounds,Atmospheric Sounds,Dog Barking,Violin Playing,A
+650907.mp3,Which sound event has the longest duration in the given audio?,Cat Meowing,Laughter,Hissing,Raining,B
+572259.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Bird Chirp,Airplane engine,Machine sounds,C
+649156.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Waves,Wolf Howl,Cheering,D
+501821.mp3,Which sound event has the longest duration in the given audio?,Trumpet,Atmospheric Sounds,Clapping,Clock Ticking,A
+397435.mp3,Which sound event has the longest duration in the given audio?,Violin Playing,Clapping,Button Press,Vehicle Horn Honk,B
+133991.mp3,Which sound event has the longest duration in the given audio?,Truck driving by,Cat Meowing,Thunder,Saxophone,C
+64398.mp3,Which sound event has the longest duration in the given audio?,Whistle,Vehicle engine,Atmospheric Sounds,Chainsaw,D
+430960.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Atmospheric Sounds,Security Alarm,Thud,A
+159989.mp3,Which sound event has the longest duration in the given audio?,Doorbell,Traffic Noise,Thud,Footsteps,B
+405206.mp3,Which sound event has the longest duration in the given audio?,Waves,Lawn Mower,Coughing,Rooster Crow,C
+14790.mp3,Which sound event has the longest duration in the given audio?,Piano Playing,Waves,Metallic Sounds,Bird Chirp,D
+325167.mp3,Which sound event has the longest duration in the given audio?,Beeping,Sleeping Sounds,Bell Ringing,Distant Sounds,A
+406897.mp3,Which sound event has the longest duration in the given audio?,Camera Shutter,Raining,Laughter,Bell Ringing,B
+766887.mp3,Which sound event has the longest duration in the given audio?,Machine sounds,Distant Sounds,Beeping,Stream_River,C
+337997.mp3,Which sound event has the longest duration in the given audio?,Fire burning,Thumping,Cowbell Ringing,Human Speech,D
+700591.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Thud,Vehicle engine,Human Speech,A
+71529.mp3,Which sound event has the longest duration in the given audio?,Electronic Game,Washing Machine,Car door sound,Distant Sounds,B
+365579.mp3,Which sound event has the longest duration in the given audio?,Drums,Monotone Sounds,Clock Ticking,Car door sound,C
+700981.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Camera Shutter,Human Speech,Hammer,D
+548200.mp3,Which sound event has the longest duration in the given audio?,Stream_River,Breathing,Piano Playing,Truck driving by,A
+778372.mp3,Which sound event has the longest duration in the given audio?,Beeping,Raining,Rooster Crow,Crying,B
+706449.mp3,Which sound event has the longest duration in the given audio?,Clock Ticking,Human Speech,Cat Meowing,Fire Alarm,C
+170107.mp3,Which sound event has the longest duration in the given audio?,Cowbell Ringing,Footsteps,Pig Oink,Monotone Sounds,D
+515530.mp3,Which sound event has the longest duration in the given audio?,Bell Ringing,Phone Dialing,White noise,Dog Barking,A
+331705.mp3,Which sound event has the longest duration in the given audio?,Screaming,Insect Buzzing,Doorbell,Clock Ticking,B
+635338.mp3,Which sound event has the longest duration in the given audio?,Airplane sound,Squeaking,Insect Buzzing,Atmospheric Sounds,C
+32863.mp3,Which sound event has the longest duration in the given audio?,Fire burning,Helicopter sound,Clapping,Atmospheric Sounds,D
+476297.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Train sound,Elevator,Violin Playing,A
+364822.mp3,Which sound event has the longest duration in the given audio?,Phone Ringing,Power Drill,Cheering,Stream_River,B
+54823.mp3,Which sound event has the longest duration in the given audio?,Doorbell,Footsteps,Dog Barking,Traffic Noise,C
+315644.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Raining,Distant Sounds,Chainsaw,D
+52346.mp3,Which sound event has the longest duration in the given audio?,Guitar Playing,Human Speech,Cranking,Doorbell,A
+78562.mp3,Which sound event has the longest duration in the given audio?,Sheep_Goat Bleat,Alarm sound,Clock Ticking,Raining,B
+39890.mp3,Which sound event has the longest duration in the given audio?,Phone Dialing,Distant Sounds,Raining,Explosion,C
+528249.mp3,Which sound event has the longest duration in the given audio?,Wood sounds,Metallic Sounds,Human Speech,Train sound,D
+676730.mp3,Which sound event has the longest duration in the given audio?,Hammer,Wood sounds,Dog Barking,Atmospheric Sounds,A
+212774.mp3,Which sound event has the longest duration in the given audio?,Phone Dialing,Waves,Explosion,Atmospheric Sounds,B
+591187.mp3,Which sound event has the longest duration in the given audio?,Stream_River,Button Press,Guitar Playing,Airplane sound,C
+172888.mp3,Which sound event has the longest duration in the given audio?,Car driving by,Water Dripping,Cat Meowing,Atmospheric Sounds,D
+637496.mp3,Which sound event has the longest duration in the given audio?,Grinding,Distant Sounds,Guitar Playing,Wolf Howl,A
+774676.mp3,Which sound event has the longest duration in the given audio?,Wood sounds,Piano Playing,Helicopter sound,Human Speech,B
+245327.mp3,Which sound event has the longest duration in the given audio?,Rooster Crow,Bicycle,Drums,Human Speech,C
+588591.mp3,Which sound event has the longest duration in the given audio?,Electronic Beep,Bird Chirp,Distant Sounds,Vehicle Horn Honk,D
+745835.mp3,Which sound event has the longest duration in the given audio?,Raining,Metallic Sounds,Guitar Playing,Announcement,A
+755202.mp3,Which sound event has the longest duration in the given audio?,Security Alarm,Bell Ringing,Hiccup,Dog Barking,B
+378365.mp3,Which sound event has the longest duration in the given audio?,Clicking,Monotone Sounds,Bicycle,Clapping,C
+533012.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Clock Ticking,Human Speech,Stream_River,D
+553508.mp3,Which sound event has the longest duration in the given audio?,Clock Ticking,Vehicle braking,Humming,Doorbell,A
+538438.mp3,Which sound event has the longest duration in the given audio?,Clock Ticking,Door sounds,Cowbell Ringing,Horse Neigh,B
+613869.mp3,Which sound event has the longest duration in the given audio?,Wind,Snoring,Sheep_Goat Bleat,Hand Sander,C
+110394.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Microwave,Alarm sound,Waves,D
+579871.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Machine sounds,Phone Dialing,Bird Chirp,A
+147534.mp3,Which sound event has the longest duration in the given audio?,Singing,Distant Sounds,Phone Dialing,Beeping,B
+264870.mp3,Which sound event has the longest duration in the given audio?,Horse Neigh,Lawn Mower,Vehicle engine,Fire Alarm,C
+422924.mp3,Which sound event has the longest duration in the given audio?,Electronic Game,Dog Barking,Drums,Announcement,D
+469140.mp3,Which sound event has the longest duration in the given audio?,Piano Playing,Car Honking,Monotone Sounds,White noise,A
+591157.mp3,Which sound event has the longest duration in the given audio?,Metallic Sounds,Siren,Car Honking,Cat Meowing,B
+528953.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Bird Chirp,Footsteps,Vehicle Horn Honk,C
+162530.mp3,Which sound event has the longest duration in the given audio?,Singing,Water Dripping,Door sounds,Car door sound,D
+233583.mp3,Which sound event has the longest duration in the given audio?,Cheering,Atmospheric Sounds,Vehicle engine,Phone Dialing,A
+709389.mp3,Which sound event has the longest duration in the given audio?,Fire burning,Cowbell Ringing,Sheep_Goat Bleat,Distant Sounds,B
+75059.mp3,Which sound event has the longest duration in the given audio?,Sheep_Goat Bleat,Phone Ringing,Clapping,Monotone Sounds,C
+691533.mp3,Which sound event has the longest duration in the given audio?,Sewing Machine,Car driving by,Clock Ticking,Raining,D
+430013.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Snoring,Train sound,Whirring,A
+698256.mp3,Which sound event has the longest duration in the given audio?,Motorcycle driving by,Human Speech,Atmospheric Sounds,Cow Moo,B
+462672.mp3,Which sound event has the longest duration in the given audio?,Wood sounds,Bird Chirp,Siren,Sewing Machine,C
+275238.mp3,Which sound event has the longest duration in the given audio?,Bicycle,Metallic Sounds,Clapping,Siren,D
+435087.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Distant Sounds,Clicking,Bird Chirp,A
+715298.mp3,Which sound event has the longest duration in the given audio?,Explosion,Bird Chirp,Footsteps,Drums,B
+520852.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Violin Playing,Stream_River,Human Speech,C
+726345.mp3,Which sound event has the longest duration in the given audio?,Trumpet,Jackhammer,Bird Chirp,Airplane sound,D
+148754.mp3,Which sound event has the longest duration in the given audio?,Alarm sound,Atmospheric Sounds,Squeaking,Piano Playing,A
+645850.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Bell Ringing,Siren,Whirring,B
+474901.mp3,Which sound event has the longest duration in the given audio?,Guitar Playing,Vehicle engine,Bird Chirp,Wind,C
+370005.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Trumpet,Monotone Sounds,Electronic Beep,D
+514706.mp3,Which sound event has the longest duration in the given audio?,Metallic Sounds,Vehicle engine,Whistle,Microwave,A
+554956.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Raining,Distant Sounds,Drums,B
+271145.mp3,Which sound event has the longest duration in the given audio?,Clicking,Announcement,Stream_River,Bicycle,C
+752052.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Piano Playing,Power Drill,Clapping,D
+727132.mp3,Which sound event has the longest duration in the given audio?,Shouting,Dog Barking,Thud,Motorcycle driving by,A
+273219.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Traffic Noise,Bird Chirp,Button Press,B
+788147.mp3,Which sound event has the longest duration in the given audio?,White noise,Dog Barking,Raining,Car driving by,C
+512165.mp3,Which sound event has the longest duration in the given audio?,Bell Ringing,Atmospheric Sounds,Waves,Vehicle Horn Honk,D
+487078.mp3,Which sound event has the longest duration in the given audio?,Fire burning,Hammer,Electronic Game,Atmospheric Sounds,A
+96856.mp3,Which sound event has the longest duration in the given audio?,Sleeping Sounds,Drums,Phone Ringing,Thumping,B
+249748.mp3,Which sound event has the longest duration in the given audio?,Doorbell,Monotone Sounds,Snoring,Violin Playing,C
+700910.mp3,Which sound event has the longest duration in the given audio?,Beeping,Car Honking,Bird Chirp,Wind,D
+195111.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Whistle,Car driving by,Ticking,A
+26802.mp3,Which sound event has the longest duration in the given audio?,Sheep_Goat Bleat,Grinding,Coughing,Waves,B
+408435.mp3,Which sound event has the longest duration in the given audio?,Fan,Distant Sounds,Insect Buzzing,Keyboard sounds,C
+55497.mp3,Which sound event has the longest duration in the given audio?,Doorbell,Power Saw,Elevator,Atmospheric Sounds,D
+707789.mp3,Which sound event has the longest duration in the given audio?,Sheep_Goat Bleat,Sleeping Sounds,Rustling,Drums,A
+19549.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Rustling,Distant Sounds,Water Dripping,B
+533196.mp3,Which sound event has the longest duration in the given audio?,Thunder,Screaming,Thud,Distant Sounds,C
+486423.mp3,Which sound event has the longest duration in the given audio?,Car driving by,Distant Sounds,Breathing,Raining,D
+450821.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Wood sounds,ATM Machine,Screaming,A
+456058.mp3,Which sound event has the longest duration in the given audio?,Traffic Noise,Fire burning,Camera Shutter,Squeaking,B
+422939.mp3,Which sound event has the longest duration in the given audio?,Fire Alarm,Cow Moo,Human Speech,Machine sounds,C
+560515.mp3,Which sound event has the longest duration in the given audio?,Whirring,Phone Dialing,Singing,Bird Chirp,D
+249711.mp3,Which sound event has the longest duration in the given audio?,Clapping,Wood sounds,Distant Sounds,Washing Machine,A
+347873.mp3,Which sound event has the longest duration in the given audio?,Thud,Raining,Singing,Distant Sounds,B
+376780.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Drums,Vehicle engine,Human Speech,C
+484350.mp3,Which sound event has the longest duration in the given audio?,Horse Neigh,Security Alarm,Hand Sander,Thunder,D
+41458.mp3,Which sound event has the longest duration in the given audio?,Screaming,Whirring,Distant Sounds,Beeping,A
+575249.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Guitar Playing,Human Speech,Beeping,B
+634721.mp3,Which sound event has the longest duration in the given audio?,Fire burning,Explosion,Traffic Noise,Atmospheric Sounds,C
+617031.mp3,Which sound event has the longest duration in the given audio?,Doorbell,Sleeping Sounds,Thud,Atmospheric Sounds,D
+719564.mp3,Which sound event has the longest duration in the given audio?,Chainsaw,Distant Sounds,Cowbell Ringing,Fire burning,A
+631486.mp3,Which sound event has the longest duration in the given audio?,Singing,Crying,Metallic Sounds,Phone Ringing,B
+725322.mp3,Which sound event has the longest duration in the given audio?,Violin Playing,Truck driving by,Bird Chirp,Footsteps,C
+591063.mp3,Which sound event has the longest duration in the given audio?,Announcement,Water Dripping,Monotone Sounds,Bird Chirp,D
+250383.mp3,Which sound event has the longest duration in the given audio?,Stream_River,Distant Sounds,Human Speech,Rattling,A
+563746.mp3,Which sound event has the longest duration in the given audio?,Wood sounds,Cat Meowing,Distant Sounds,Phone Dialing,B
+761057.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Bird Chirp,Airplane engine,Shouting,C
+785763.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Card Reader,Monotone Sounds,Piano Playing,D
+396528.mp3,Which sound event has the longest duration in the given audio?,Metallic Sounds,Cowbell Ringing,Beeping,Atmospheric Sounds,A
+509541.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Human Speech,Microwave,Hissing,B
+160702.mp3,Which sound event has the longest duration in the given audio?,Explosion,Guitar Playing,Grinding,Humming,C
+394716.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Metallic Sounds,Bird Chirp,Footsteps,D
+253085.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Beeping,Drums,Sleeping Sounds,A
+737205.mp3,Which sound event has the longest duration in the given audio?,Helicopter sound,Bird Chirp,Whistle,Trumpet,B
+594563.mp3,Which sound event has the longest duration in the given audio?,Beeping,Waves,Human Speech,Atmospheric Sounds,C
+711100.mp3,Which sound event has the longest duration in the given audio?,ATM Machine,Alarm sound,Wolf Howl,Machine sounds,D
+743668.mp3,Which sound event has the longest duration in the given audio?,Singing,Explosion,Rattling,Bird Chirp,A
+595860.mp3,Which sound event has the longest duration in the given audio?,Clapping,Monotone Sounds,Drums,Water Dripping,B
+203854.mp3,Which sound event has the longest duration in the given audio?,Ringing,Vehicle Horn Honk,Wind,Humming,C
+61215.mp3,Which sound event has the longest duration in the given audio?,Wind,Ticking,Human Speech,Monotone Sounds,D
+54898.mp3,Which sound event has the longest duration in the given audio?,Traffic Noise,Elevator,Door sounds,Siren,A
+779890.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Jackhammer,Clapping,Wind,B
+458617.mp3,Which sound event has the longest duration in the given audio?,Power Saw,Explosion,Crying,Electronic Beep,C
+435724.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Grinding,ATM Machine,Bicycle,D
+160571.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Drums,Elevator,Door sounds,A
+608699.mp3,Which sound event has the longest duration in the given audio?,Keyboard sounds,Whistle,Clock Ticking,Wood sounds,B
+637218.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Pig Oink,Machine sounds,Fire burning,C
+233975.mp3,Which sound event has the longest duration in the given audio?,Thud,Announcement,Bus sound,Water Dripping,D
+341561.mp3,Which sound event has the longest duration in the given audio?,Traffic Noise,Pig Oink,Vehicle Horn Honk,Wind,A
+636907.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Stream_River,Thud,Distant Sounds,B
+680666.mp3,Which sound event has the longest duration in the given audio?,Card Reader,Ticking,Dog Barking,Fire burning,C
+663379.mp3,Which sound event has the longest duration in the given audio?,Motorcycle driving by,Stream_River,Beeping,Grinding,D
+536928.mp3,Which sound event has the longest duration in the given audio?,Helicopter sound,Siren,Fan,Fire burning,A
+479652.mp3,Which sound event has the longest duration in the given audio?,Siren,Wind,Sheep_Goat Bleat,Piano Playing,B
+30823.mp3,Which sound event has the longest duration in the given audio?,Guitar Playing,White noise,Traffic Noise,Siren,C
+332971.mp3,Which sound event has the longest duration in the given audio?,Security Alarm,Clapping,Dog Barking,Squeaking,D
+406175.mp3,Which sound event has the longest duration in the given audio?,Traffic Noise,Distant Sounds,Waves,Vehicle Horn Honk,A
+473708.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Machine sounds,Sheep_Goat Bleat,Trumpet,B
+760515.mp3,Which sound event has the longest duration in the given audio?,Car Honking,Vehicle Horn Honk,Atmospheric Sounds,Cowbell Ringing,C
+331009.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Sewing Machine,Phone Dialing,Human Speech,D
+480625.mp3,Which sound event has the longest duration in the given audio?,Footsteps,Rustling,Camera Shutter,Cow Moo,A
+262482.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Siren,Distant Sounds,Car driving by,B
+571369.mp3,Which sound event has the longest duration in the given audio?,Rattling,Thunder,Piano Playing,Distant Sounds,C
+728346.mp3,Which sound event has the longest duration in the given audio?,Squeaking,Saxophone,Distant Sounds,Human Speech,D
+369857.mp3,Which sound event has the longest duration in the given audio?,ATM Machine,Ship_Boat sound,Beeping,Printer,A
+519366.mp3,Which sound event has the longest duration in the given audio?,Thunder,Cat Meowing,Distant Sounds,Camera Shutter,B
+428847.mp3,Which sound event has the longest duration in the given audio?,Helicopter sound,Guitar Playing,Rooster Crow,Humming,C
+406140.mp3,Which sound event has the longest duration in the given audio?,Airplane engine,Electronic Beep,Door sounds,Human Speech,D
+686057.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Vehicle Horn Honk,Atmospheric Sounds,Bell Ringing,A
+236997.mp3,Which sound event has the longest duration in the given audio?,Sleeping Sounds,Raining,Distant Sounds,Doorbell,B
+24716.mp3,Which sound event has the longest duration in the given audio?,Train sound,Card Reader,Siren,Announcement,C
+646878.mp3,Which sound event has the longest duration in the given audio?,Footsteps,Wind,Insect Buzzing,Bell Ringing,D
+451449.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Car Honking,Distant Sounds,Bird Chirp,A
+537472.mp3,Which sound event has the longest duration in the given audio?,Beeping,Car driving by,Monkey sounds,Ringing,B
+548491.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Monotone Sounds,White noise,Waves,C
+397128.mp3,Which sound event has the longest duration in the given audio?,Hiccup,Bird Chirp,Jackhammer,Waves,D
+756960.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Ticking,Drums,Fire burning,A
+67306.mp3,Which sound event has the longest duration in the given audio?,Thud,Human Speech,Siren,Phone Dialing,B
+639829.mp3,Which sound event has the longest duration in the given audio?,Chainsaw,Airplane sound,Bird Chirp,Human Speech,C
+511348.mp3,Which sound event has the longest duration in the given audio?,Clock Ticking,Metallic Sounds,Dog Barking,Raining,D
+252282.mp3,Which sound event has the longest duration in the given audio?,Guitar Playing,Pig Oink,Shouting,Cranking,A
+786171.mp3,Which sound event has the longest duration in the given audio?,Airplane sound,Stream_River,Bird Chirp,Announcement,B
+611104.mp3,Which sound event has the longest duration in the given audio?,Ship_Boat sound,Fan,Monotone Sounds,Bird Chirp,C
+453245.mp3,Which sound event has the longest duration in the given audio?,Elevator,Alarm sound,Atmospheric Sounds,Chainsaw,D
+74965.mp3,Which sound event has the longest duration in the given audio?,Power Drill,Snoring,Helicopter sound,Phone Dialing,A
+153543.mp3,Which sound event has the longest duration in the given audio?,Water Dripping,Car Honking,Metallic Sounds,Human Speech,B
+222803.mp3,Which sound event has the longest duration in the given audio?,Electronic Beep,Car Honking,Lawn Mower,Human Speech,C
+700991.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Fire Alarm,Distant Sounds,Wind,D
+659000.mp3,Which sound event has the longest duration in the given audio?,Rattling,Fire burning,Helicopter sound,Crying,A
+255545.mp3,Which sound event has the longest duration in the given audio?,Ticking,Raining,Elevator,Cat Meowing,B
+606963.mp3,Which sound event has the longest duration in the given audio?,Bell Ringing,Hand Sander,Clapping,Pig Oink,C
+165387.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Explosion,Car Honking,Machine sounds,D
+154927.mp3,Which sound event has the longest duration in the given audio?,Airplane sound,Vehicle Horn Honk,Bird Chirp,Monotone Sounds,A
+331706.mp3,Which sound event has the longest duration in the given audio?,Airplane sound,Clock Ticking,Cranking,Wood sounds,B
+169139.mp3,Which sound event has the longest duration in the given audio?,Footsteps,Singing,Wood sounds,Power Saw,C
+451479.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Coughing,Dog Barking,Traffic Noise,D
+184725.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Human Speech,Distant Sounds,Alarm sound,A
+411914.mp3,Which sound event has the longest duration in the given audio?,Phone Ringing,Washing Machine,Sheep_Goat Bleat,Atmospheric Sounds,B
+349858.mp3,Which sound event has the longest duration in the given audio?,Siren,Car Honking,Announcement,Hissing,C
+48989.mp3,Which sound event has the longest duration in the given audio?,Shouting,Vehicle Horn Honk,Distant Sounds,Vehicle engine,D
+326834.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Atmospheric Sounds,Electronic Beep,Machine sounds,A
+118742.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Power Drill,Monotone Sounds,Siren,B
+143115.mp3,Which sound event has the longest duration in the given audio?,Cow Moo,Whirring,Car Honking,Human Speech,C
+137825.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Fan,Beeping,Machine sounds,D
+332850.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Siren,Waves,Clapping,A
+267973.mp3,Which sound event has the longest duration in the given audio?,Fire Alarm,Lawn Mower,Dog Barking,Stream_River,B
+406868.mp3,Which sound event has the longest duration in the given audio?,Sleeping Sounds,Atmospheric Sounds,Traffic Noise,Vehicle Horn Honk,C
+705058.mp3,Which sound event has the longest duration in the given audio?,Elevator,Rattling,Breathing,Waves,D
+698897.mp3,Which sound event has the longest duration in the given audio?,Thud,Dog Barking,Phone Ringing,Distant Sounds,A
+755188.mp3,Which sound event has the longest duration in the given audio?,Violin Playing,Waves,Laughter,Airplane engine,B
+394923.mp3,Which sound event has the longest duration in the given audio?,Footsteps,Wind,White noise,Car driving by,C
+740816.mp3,Which sound event has the longest duration in the given audio?,Cowbell Ringing,Security Alarm,Electronic Beep,Machine sounds,D
+194460.mp3,Which sound event has the longest duration in the given audio?,Clapping,Car Honking,Electronic Beep,Monotone Sounds,A
+408703.mp3,Which sound event has the longest duration in the given audio?,Car door sound,Jackhammer,Shouting,Raining,B
+627099.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Phone Dialing,Wind,Rustling,C
+722356.mp3,Which sound event has the longest duration in the given audio?,Violin Playing,Vehicle Horn Honk,Cranking,Bird Chirp,D
+378139.mp3,Which sound event has the longest duration in the given audio?,Wind,Footsteps,Phone Ringing,Truck driving by,A
+554853.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Shouting,Sheep_Goat Bleat,Train sound,B
+556520.mp3,Which sound event has the longest duration in the given audio?,Sniffing,Sheep_Goat Bleat,Thunder,Thumping,C
+698899.mp3,Which sound event has the longest duration in the given audio?,Train sound,Machine sounds,Wind,Breathing,D
+394707.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Waves,Fan,Monotone Sounds,A
+106600.mp3,Which sound event has the longest duration in the given audio?,Electronic Game,Monotone Sounds,Washing Machine,Waves,B
+727798.mp3,Which sound event has the longest duration in the given audio?,Drums,Insect Buzzing,Water Dripping,Traffic Noise,C
+19837.mp3,Which sound event has the longest duration in the given audio?,Doorbell,Sheep_Goat Bleat,Distant Sounds,Footsteps,D
+567469.mp3,Which sound event has the longest duration in the given audio?,Wind,Distant Sounds,Thud,Car door sound,A
+665939.mp3,Which sound event has the longest duration in the given audio?,Laughter,Bird Chirp,Cowbell Ringing,Fire Alarm,B
+155447.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Insect Buzzing,Alarm sound,Monotone Sounds,C
+141704.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Piano Playing,Distant Sounds,Clapping,D
+371940.mp3,Which sound event has the longest duration in the given audio?,Waves,Vehicle Horn Honk,Clock Ticking,Airplane engine,A
+260616.mp3,Which sound event has the longest duration in the given audio?,Alarm sound,Stream_River,Jackhammer,Electronic Game,B
+136431.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Beeping,Traffic Noise,Atmospheric Sounds,C
+723527.mp3,Which sound event has the longest duration in the given audio?,Singing,Vehicle braking,Clapping,Vehicle Horn Honk,D
+405574.mp3,Which sound event has the longest duration in the given audio?,Wind,Atmospheric Sounds,Cheering,Truck driving by,A
+653039.mp3,Which sound event has the longest duration in the given audio?,Rattling,Wind,Vehicle engine,Atmospheric Sounds,B
+538910.mp3,Which sound event has the longest duration in the given audio?,Beeping,Sheep_Goat Bleat,Washing Machine,Monotone Sounds,C
+453826.mp3,Which sound event has the longest duration in the given audio?,Hammer,Microwave,Car door sound,Distant Sounds,D
+578523.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Atmospheric Sounds,Door sounds,Siren,A
+553936.mp3,Which sound event has the longest duration in the given audio?,Card Reader,Raining,Insect Buzzing,Beeping,B
+660519.mp3,Which sound event has the longest duration in the given audio?,Singing,Explosion,Electronic Beep,Motorcycle driving by,C
+264372.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Shouting,Water Dripping,Bird Chirp,D
+166417.mp3,Which sound event has the longest duration in the given audio?,Airplane sound,Distant Sounds,Trumpet,Footsteps,A
+638934.mp3,Which sound event has the longest duration in the given audio?,Explosion,Bird Chirp,Ship_Boat sound,Stream_River,B
+252909.mp3,Which sound event has the longest duration in the given audio?,Fan,Breathing,Dog Barking,Security Alarm,C
+782978.mp3,Which sound event has the longest duration in the given audio?,Cheering,Monotone Sounds,Chainsaw,Piano Playing,D
+695813.mp3,Which sound event has the longest duration in the given audio?,Water Dripping,Breathing,Fire Alarm,Distant Sounds,A
+168308.mp3,Which sound event has the longest duration in the given audio?,Fire burning,Door sounds,Hiccup,Atmospheric Sounds,B
+120695.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Rustling,Raining,Trumpet,C
+324314.mp3,Which sound event has the longest duration in the given audio?,Raining,Cheering,Microwave,Airplane engine,D
+149293.mp3,Which sound event has the longest duration in the given audio?,Chainsaw,Atmospheric Sounds,Coughing,Waves,A
+655090.mp3,Which sound event has the longest duration in the given audio?,ATM Machine,Cat Meowing,Stream_River,Lawn Mower,B
+540465.mp3,Which sound event has the longest duration in the given audio?,Car Honking,Explosion,Laughter,Thunder,C
+351973.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Vehicle Horn Honk,Bird Chirp,Wind,D
+393840.mp3,Which sound event has the longest duration in the given audio?,Humming,Water Dripping,Distant Sounds,Cow Moo,A
+160576.mp3,Which sound event has the longest duration in the given audio?,Car driving by,Atmospheric Sounds,Clapping,Bird Chirp,B
+50621.mp3,Which sound event has the longest duration in the given audio?,Button Press,Distant Sounds,Drums,Cow Moo,C
+460754.mp3,Which sound event has the longest duration in the given audio?,Fire burning,Coughing,Violin Playing,Traffic Noise,D
+42117.mp3,Which sound event has the longest duration in the given audio?,Siren,Drums,Traffic Noise,Distant Sounds,A
+627110.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Jackhammer,Elevator,Water Dripping,B
+622446.mp3,Which sound event has the longest duration in the given audio?,Piano Playing,Atmospheric Sounds,Breathing,Alarm sound,C
+91234.mp3,Which sound event has the longest duration in the given audio?,Security Alarm,Truck driving by,Waves,Atmospheric Sounds,D
+437448.mp3,Which sound event has the longest duration in the given audio?,Wood sounds,Airplane engine,Monotone Sounds,Thud,A
+37565.mp3,Which sound event has the longest duration in the given audio?,Airplane engine,Raining,Distant Sounds,Monkey sounds,B
+327663.mp3,Which sound event has the longest duration in the given audio?,Fire burning,Rustling,Human Speech,Monotone Sounds,C
+726845.mp3,Which sound event has the longest duration in the given audio?,Phone Ringing,Laughter,Saxophone,Vacuum Cleaner,D
+561803.mp3,Which sound event has the longest duration in the given audio?,Siren,Metallic Sounds,Saxophone,Sheep_Goat Bleat,A
+641588.mp3,Which sound event has the longest duration in the given audio?,Raining,Cow Moo,Lawn Mower,Singing,B
+215447.mp3,Which sound event has the longest duration in the given audio?,Piano Playing,Raining,Airplane engine,Wolf Howl,C
+733325.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Bicycle,Rooster Crow,Power Saw,D
+553181.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Vehicle engine,Clapping,Monotone Sounds,A
+100476.mp3,Which sound event has the longest duration in the given audio?,Rooster Crow,Saxophone,Rustling,Hiccup,B
+752396.mp3,Which sound event has the longest duration in the given audio?,Shouting,Distant Sounds,Vehicle engine,Bird Chirp,C
+731255.mp3,Which sound event has the longest duration in the given audio?,Crying,Trumpet,Wood sounds,Bird Chirp,D
+179086.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Vehicle braking,Alarm sound,Bell Ringing,A
+377324.mp3,Which sound event has the longest duration in the given audio?,Bicycle,Cowbell Ringing,Distant Sounds,Human Speech,B
+142002.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Grinding,Bell Ringing,Fire burning,C
+676407.mp3,Which sound event has the longest duration in the given audio?,Security Alarm,Button Press,Electronic Beep,Dog Barking,D
+586531.mp3,Which sound event has the longest duration in the given audio?,Siren,Breathing,Thud,Wood sounds,A
+621233.mp3,Which sound event has the longest duration in the given audio?,Helicopter sound,Sniffing,Thunder,Distant Sounds,B
+528231.mp3,Which sound event has the longest duration in the given audio?,Clicking,Vehicle engine,Human Speech,Atmospheric Sounds,C
+191919.mp3,Which sound event has the longest duration in the given audio?,Thunder,Clapping,Cowbell Ringing,Distant Sounds,D
+50814.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Atmospheric Sounds,Human Speech,Bird Chirp,A
+73269.mp3,Which sound event has the longest duration in the given audio?,Beeping,Thunder,Bird Chirp,Monotone Sounds,B
+510773.mp3,Which sound event has the longest duration in the given audio?,Clapping,Atmospheric Sounds,Dog Barking,Airplane engine,C
+410413.mp3,Which sound event has the longest duration in the given audio?,Vehicle braking,Coughing,Bird Chirp,Ticking,D
+119768.mp3,Which sound event has the longest duration in the given audio?,Hammer,Drums,Monotone Sounds,Clapping,A
+479784.mp3,Which sound event has the longest duration in the given audio?,Rustling,Wood sounds,Atmospheric Sounds,Horse Neigh,B
+550181.mp3,Which sound event has the longest duration in the given audio?,Raining,Whistle,Jackhammer,Cow Moo,C
+438859.mp3,Which sound event has the longest duration in the given audio?,Ship_Boat sound,Microwave,Fire burning,Whistle,D
+331613.mp3,Which sound event has the longest duration in the given audio?,Train sound,Fan,Vehicle Horn Honk,Singing,A
+81801.mp3,Which sound event has the longest duration in the given audio?,Hissing,Fire burning,Sheep_Goat Bleat,Train sound,B
+649896.mp3,Which sound event has the longest duration in the given audio?,Wind,Cowbell Ringing,Distant Sounds,Bird Chirp,C
+80398.mp3,Which sound event has the longest duration in the given audio?,Wolf Howl,Cowbell Ringing,Rattling,Announcement,D
+672252.mp3,Which sound event has the longest duration in the given audio?,Raining,Drums,Cow Moo,Atmospheric Sounds,A
+412404.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Lawn Mower,Motorcycle driving by,Waves,B
+734083.mp3,Which sound event has the longest duration in the given audio?,Bird Chirp,Stream_River,Siren,Sniffing,C
+73208.mp3,Which sound event has the longest duration in the given audio?,Power Saw,Camera Shutter,Helicopter sound,Thunder,D
+353140.mp3,Which sound event has the longest duration in the given audio?,Whistle,Drums,Bird Chirp,Hand Sander,A
+640980.mp3,Which sound event has the longest duration in the given audio?,Cow Moo,Singing,Car driving by,Wind,B
+680362.mp3,Which sound event has the longest duration in the given audio?,Siren,Sewing Machine,Raining,Monotone Sounds,C
+161890.mp3,Which sound event has the longest duration in the given audio?,Wolf Howl,Vehicle engine,Cheering,Machine sounds,D
+640859.mp3,Which sound event has the longest duration in the given audio?,Stream_River,Laughter,Bird Chirp,Atmospheric Sounds,A
+730508.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Hammer,Footsteps,Airplane sound,B
+422876.mp3,Which sound event has the longest duration in the given audio?,Truck driving by,Wood sounds,Human Speech,Doorbell,C
+127605.mp3,Which sound event has the longest duration in the given audio?,Microwave,Explosion,Atmospheric Sounds,Waves,D
+479651.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Thud,Screaming,Sheep_Goat Bleat,A
+624343.mp3,Which sound event has the longest duration in the given audio?,Chainsaw,Snoring,Guitar Playing,Pig Oink,B
+327288.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Fan,Machine sounds,Atmospheric Sounds,C
+442562.mp3,Which sound event has the longest duration in the given audio?,Singing,Door sounds,Atmospheric Sounds,Alarm sound,D
+360842.mp3,Which sound event has the longest duration in the given audio?,Bell Ringing,Clicking,Monotone Sounds,Doorbell,A
+54851.mp3,Which sound event has the longest duration in the given audio?,Singing,Vehicle engine,Grinding,Distant Sounds,B
+574427.mp3,Which sound event has the longest duration in the given audio?,Cheering,Vehicle Horn Honk,Bird Chirp,Sewing Machine,C
+654255.mp3,Which sound event has the longest duration in the given audio?,Water Dripping,Elevator,Rooster Crow,Humming,D
+510300.mp3,Which sound event has the longest duration in the given audio?,Atmospheric Sounds,Wolf Howl,Thunder,Cheering,A
+476013.mp3,Which sound event has the longest duration in the given audio?,Vehicle engine,Cowbell Ringing,Bird Chirp,Cheering,B
+253986.mp3,Which sound event has the longest duration in the given audio?,Announcement,Beeping,Elevator,Door sounds,C
+199535.mp3,Which sound event has the longest duration in the given audio?,Microwave,Breathing,Train sound,Hissing,D
+533356.mp3,Which sound event has the longest duration in the given audio?,Dog Barking,Distant Sounds,Car Honking,Wind,A
+187298.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Airplane sound,Vehicle Horn Honk,Fan,B
+624244.mp3,Which sound event has the longest duration in the given audio?,Human Speech,Car driving by,Bird Chirp,Explosion,C
+501804.mp3,Which sound event has the longest duration in the given audio?,Vehicle Horn Honk,Thumping,Vehicle braking,Distant Sounds,D
+389497.mp3,Which sound event has the longest duration in the given audio?,Stream_River,Monotone Sounds,Bird Chirp,Violin Playing,A
+635605.mp3,Which sound event has the longest duration in the given audio?,Fire burning,Power Drill,Monotone Sounds,Elevator,B
+249304.mp3,Which sound event has the longest duration in the given audio?,Sneezing,Cowbell Ringing,Alarm sound,Distant Sounds,C
+784365.mp3,Which sound event has the longest duration in the given audio?,Monotone Sounds,Singing,Machine sounds,Humming,D
+12648.mp3,Which sound event has the longest duration in the given audio?,Bell Ringing,Atmospheric Sounds,Whistle,Explosion,A
+171130.mp3,Which sound event has the longest duration in the given audio?,Distant Sounds,Clapping,Thunder,Cow Moo,B
+219446.mp3,Which sound event has the longest duration in the given audio?,Pig Oink,Distant Sounds,Clapping,Siren,C
+438253.mp3,Which sound event has the longest duration in the given audio?,Clicking,Announcement,Singing,Siren,D
+591212.mp3,Which sound event has the longest duration in the given audio?,Guitar Playing,Electronic Beep,Clapping,Door sounds,A
+208995.mp3,Which sound event has the longest duration in the given audio?,Vacuum Cleaner,Insect Buzzing,Drums,Coughing,B
