@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "knockout_mode": "generated_to_audio",
+    "layers_knocked_out": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "model_name": "Qwen/Qwen2-Audio-7B",
+    "csv_path": "/fs/gamma-projects/audio/kajayaku/temporal_understanding/curated_data/relative_mcqa_final/relative_earliest_start_mcq.csv",
+    "total_questions": 10,
+    "correct_answers": 3,
+    "accuracy": 0.3,
+    "timestamp": "2025-12-04T12:19:50.918481"
+  },
+  "results": [
+    {
+      "filename": "344938.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Vehicle engine",
+        "B": "Bird Chirp",
+        "C": "Hand Sander",
+        "D": "Distant Sounds"
+      },
+      "correct_answer": "A",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Vehicle engine\nB) Bird Chirp\nC) Hand Sander\nD) Distant Sounds\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio 1",
+      "extracted_answer": "A",
+      "is_correct": true,
+      "token_counts": {
+        "text": 76,
+        "audio": 1
+      },
+      "original_input_len": 77
+    },
+    {
+      "filename": "649156.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Cat Meowing",
+        "B": "Cheering",
+        "C": "Trumpet",
+        "D": "Doorbell"
+      },
+      "correct_answer": "B",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Cat Meowing\nB) Cheering\nC) Trumpet\nD) Doorbell\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio 1",
+      "extracted_answer": "A",
+      "is_correct": false,
+      "token_counts": {
+        "text": 73,
+        "audio": 1
+      },
+      "original_input_len": 74
+    },
+    {
+      "filename": "106836.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Screaming",
+        "B": "Washing Machine",
+        "C": "Vehicle engine",
+        "D": "Explosion"
+      },
+      "correct_answer": "C",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Screaming\nB) Washing Machine\nC) Vehicle engine\nD) Explosion\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio 1",
+      "extracted_answer": "A",
+      "is_correct": false,
+      "token_counts": {
+        "text": 71,
+        "audio": 1
+      },
+      "original_input_len": 72
+    },
+    {
+      "filename": "67306.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Insect Buzzing",
+        "B": "Thud",
+        "C": "Electronic Beep",
+        "D": "Human Speech"
+      },
+      "correct_answer": "D",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Insect Buzzing\nB) Thud\nC) Electronic Beep\nD) Human Speech\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio 1",
+      "extracted_answer": "A",
+      "is_correct": false,
+      "token_counts": {
+        "text": 75,
+        "audio": 1
+      },
+      "original_input_len": 76
+    },
+    {
+      "filename": "191919.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Distant Sounds",
+        "B": "Clapping",
+        "C": "Thumping",
+        "D": "Doorbell"
+      },
+      "correct_answer": "A",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Distant Sounds\nB) Clapping\nC) Thumping\nD) Doorbell\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio 1",
+      "extracted_answer": "A",
+      "is_correct": true,
+      "token_counts": {
+        "text": 73,
+        "audio": 1
+      },
+      "original_input_len": 74
+    },
+    {
+      "filename": "429179.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Monkey sounds",
+        "B": "Raining",
+        "C": "Atmospheric Sounds",
+        "D": "Airplane sound"
+      },
+      "correct_answer": "B",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Monkey sounds\nB) Raining\nC) Atmospheric Sounds\nD) Airplane sound\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio 1",
+      "extracted_answer": "A",
+      "is_correct": false,
+      "token_counts": {
+        "text": 73,
+        "audio": 1
+      },
+      "original_input_len": 74
+    },
+    {
+      "filename": "99683.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Atmospheric Sounds",
+        "B": "Ticking",
+        "C": "Car driving by",
+        "D": "Phone Ringing"
+      },
+      "correct_answer": "C",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Atmospheric Sounds\nB) Ticking\nC) Car driving by\nD) Phone Ringing\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio 1",
+      "extracted_answer": "A",
+      "is_correct": false,
+      "token_counts": {
+        "text": 74,
+        "audio": 1
+      },
+      "original_input_len": 75
+    },
+    {
+      "filename": "755202.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Dog Barking",
+        "B": "Vehicle Horn Honk",
+        "C": "Elevator",
+        "D": "Bell Ringing"
+      },
+      "correct_answer": "D",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Dog Barking\nB) Vehicle Horn Honk\nC) Elevator\nD) Bell Ringing\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio description of the question above.\nThe answer is",
+      "extracted_answer": "A",
+      "is_correct": false,
+      "token_counts": {
+        "text": 76,
+        "audio": 1
+      },
+      "original_input_len": 77
+    },
+    {
+      "filename": "565802.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Car driving by",
+        "B": "Atmospheric Sounds",
+        "C": "Raining",
+        "D": "Bird Chirp"
+      },
+      "correct_answer": "A",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Car driving by\nB) Atmospheric Sounds\nC) Raining\nD) Bird Chirp\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio 1",
+      "extracted_answer": "A",
+      "is_correct": true,
+      "token_counts": {
+        "text": 75,
+        "audio": 1
+      },
+      "original_input_len": 76
+    },
+    {
+      "filename": "240100.mp3",
+      "question": "Which sound event starts earliest in the given audio?",
+      "options": {
+        "A": "Water Dripping",
+        "B": "Bird Chirp",
+        "C": "Sniffing",
+        "D": "Thud"
+      },
+      "correct_answer": "B",
+      "model_output": "system\nYou are a helpful assistant.\nuser\nAudio 1: \nWhich sound event starts earliest in the given audio?\nA) Water Dripping\nB) Bird Chirp\nC) Sniffing\nD) Thud\nAnswer with just the letter (A, B, C, or D).\nassistant\nAudio 1",
+      "extracted_answer": "A",
+      "is_correct": false,
+      "token_counts": {
+        "text": 77,
+        "audio": 1
+      },
+      "original_input_len": 78
+    }
+  ]
+}
